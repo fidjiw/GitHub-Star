@@ -2,7 +2,7 @@ fidjiw
             starred
             owasp-amass/amass
             
-              · November 14, 2023 11:13
+              · November 14, 2023 11:41
             
           
 owasp-amass/amass
@@ -22,4 +22,4 @@ In-depth attack surface mapping and asset discovery
 
               Updated Oct 20 
 https://github.com/owasp-amass/amass 
-2023-11-14T11:13:21.000Z55555555555
+2023-11-14T11:41:39.000Z
