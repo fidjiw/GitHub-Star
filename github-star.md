@@ -11,6 +11,4 @@
 | [一个简单的指纹识别小工具](https://github.com/gubeihc/fingerprint)                                                                | 2023-11-14T15:12:27.000Z                                                         |
 | [Different methods to get current username without using whoami](https://github.com/ricardojoserf/WhoamiAlternatives) | 2023-11-14T15:20:01.000Z                                                         |
 | [Burp Suite's extension to scan and crawl Single Page Applications](https://github.com/fcavallarin/burp-dom-scanner)  | 2023-11-14T15:47:17.000Z                                                         |
-| [分享Git简介和常用Git命令888](https://github.com/JourWon/git)                                                                  | 2023-11-15T12:05:33.000Z                                                         |
-
-
+| [分享Git简介和常用Git命令8888899998](https://github.com/JourWon/git)                               | 2023-11-15T12:05:33.000Z                                                         |
