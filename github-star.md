@@ -11,3 +11,4 @@
 | [reqwest](https://github.com/seanmonstar/reqwest) | An easy and powerful Rust HTTP Client | 2023-11-16T01:14:15.000Z |
 | [COMProxy](https://github.com/leoloobeek/COMProxy) | PoC for proxying COM objects when hijacking | 2023-11-16T01:13:22.000Z |
 | [noWatch](https://github.com/zimnyaa/noWatch) | Implant drop-in for EDR testing | 2023-11-16T01:12:42.000Z |
+| [rebuff](https://github.com/protectai/rebuff) | LLM Prompt Injection Detector | 2023-11-16T01:12:06.000Z |
