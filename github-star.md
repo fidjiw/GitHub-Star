@@ -8,3 +8,4 @@
 | [uptime-kuma-wiki](https://github.com/louislam/uptime-kuma-wiki) | 该项目没有About | 2023-11-15T13:59:03.000Z |
 | [reflex](https://github.com/reflex-dev/reflex) | 🕸 Web apps in pure Python 🐍 | 2023-11-15T14:58:29.000Z |
 | [Android_Data](https://github.com/Freelander/Android_Data) | Some Android learning materials, hoping to help you learn Android development. | 2023-11-15T15:43:11.000Z |
+| [reqwest](https://github.com/seanmonstar/reqwest) | An easy and powerful Rust HTTP Client | 2023-11-16T01:14:15.000Z |
