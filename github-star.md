@@ -12,3 +12,4 @@
 | [COMProxy](https://github.com/leoloobeek/COMProxy) | PoC for proxying COM objects when hijacking | 2023-11-16T01:13:22.000Z |
 | [noWatch](https://github.com/zimnyaa/noWatch) | Implant drop-in for EDR testing | 2023-11-16T01:12:42.000Z |
 | [rebuff](https://github.com/protectai/rebuff) | LLM Prompt Injection Detector | 2023-11-16T01:12:06.000Z |
+| [Pillager](https://github.com/qwqdanchun/Pillager) | Pillager是一个适用于后渗透期间的信息收集工具 | 2023-11-16T01:28:17.000Z |
