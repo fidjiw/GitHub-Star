@@ -1,3 +1,4 @@
 | Name | About | Stars_Num | Stars_Time |
 | ---- | ----- | --------- | ---------- |
 | [AbuseIPDB-to-Cloudflare-WAF](https://github.com/MHG-LAB/AbuseIPDB-to-Cloudflare-WAF) | 从 AbuseIPDB API 获取 IP 黑名单 并提交设置 Cloudflare WAF 规则 | 10 | 2023-11-16T10:40:00.000Z |
+| [Pillager](https://github.com/qwqdanchun/Pillager) | Pillager是一个适用于后渗透期间的信息收集工具 | 235 | 2023-11-16T11:25:49.000Z |
