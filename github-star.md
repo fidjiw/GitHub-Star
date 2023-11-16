@@ -9,3 +9,4 @@
 | [DeepLX](https://github.com/OwO-Network/DeepLX) | DeepL Free API (No TOKEN required) | 2.8k | 2023-11-16T14:35:04.000Z |
 | [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 21.9k | 2023-11-16T15:29:11.000Z |
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | 40.7k | 2023-11-16T15:56:27.000Z |
+| [awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) | Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥 | 4.1k | 2023-11-16T16:42:16.000Z |
