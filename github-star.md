@@ -7,3 +7,4 @@
 | [xray](https://github.com/chaitin/xray) | 一款完善的安全评估工具，支持常见 web 安全问题扫描和自定义 poc  使用之前务必先阅读文档 | 9.2k | 2023-11-16T13:35:47.000Z |
 | [suo5](https://github.com/zema1/suo5) | 一款高性能 HTTP 代理隧道工具  A high-performance http proxy tunneling tool | 1.6k | 2023-11-16T14:02:25.000Z |
 | [DeepLX](https://github.com/OwO-Network/DeepLX) | DeepL Free API (No TOKEN required) | 2.8k | 2023-11-16T14:35:04.000Z |
+| [masscan](https://github.com/robertdavidgraham/masscan) | TCP port scanner, spews SYN packets asynchronously, scanning entire Internet in under 5 minutes. | 21.9k | 2023-11-16T15:29:11.000Z |
