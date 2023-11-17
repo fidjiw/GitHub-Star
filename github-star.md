@@ -11,3 +11,4 @@
 | [uptime-kuma](https://github.com/louislam/uptime-kuma) | A fancy self-hosted monitoring tool | 40.7k | 2023-11-16T15:56:27.000Z |
 | [awesome-open-gpt](https://github.com/EwingYangs/awesome-open-gpt) | Collection of Open Source Projects Related to GPT，GPT相关开源项目合集🚀、精选🔥🔥 | 4.1k | 2023-11-16T16:42:16.000Z |
 | [EchoDrv](https://github.com/YOLOP0wn/EchoDrv) | Exploitation of echo_driver.sys | 128 | 2023-11-17T02:29:14.000Z |
+| [fuzzuli](https://github.com/musana/fuzzuli) | fuzzuli is a url fuzzing tool that aims to find critical backup files by creating a dynamic wordlist based on the domain. | 478 | 2023-11-17T02:28:43.000Z |
