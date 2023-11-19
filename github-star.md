@@ -15,3 +15,4 @@
 | [self_delete_bof](https://github.com/AgeloVito/self_delete_bof) | BOF implementation of delete self poc that delete a locked executable or a currently running file from disk by its pid, path, or the current process. | 43 | 2023-11-17T02:27:55.000Z |
 | [yarb](https://github.com/fidjiw/yarb) | 方便获取每日安全资讯的爬虫和推送程序 | 1 | 2023-11-17T09:03:27.000Z |
 | [hacktricks](https://github.com/carlospolop/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | 7.4k | 2023-11-17T10:53:03.000Z |
+| [sshx](https://github.com/ekzhang/sshx) | Fast, collaborative live terminal sharing over the web | 3.8k | 2023-11-19T14:21:32.000Z |
