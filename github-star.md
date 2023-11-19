@@ -19,3 +19,4 @@
 | [gotator](https://github.com/Josue87/gotator) | Gotator is a tool to generate DNS wordlists through permutations. | 392 | 2023-11-19T14:36:06.000Z |
 | [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 5.5k | 2023-11-19T14:49:56.000Z |
 | [CVE-Easy-List](https://github.com/nomi-sec/CVE-Easy-List) | 👀CVE Simple List | 57 | 2023-11-19T14:53:29.000Z |
+| [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 112k | 2023-11-19T14:56:44.000Z |
