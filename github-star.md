@@ -17,3 +17,4 @@
 | [hacktricks](https://github.com/carlospolop/hacktricks) | Welcome to the page where you will find each trick/technique/whatever I have learnt in CTFs, real life apps, and reading researches and news. | 7.4k | 2023-11-17T10:53:03.000Z |
 | [sshx](https://github.com/ekzhang/sshx) | Fast, collaborative live terminal sharing over the web | 3.8k | 2023-11-19T14:21:32.000Z |
 | [gotator](https://github.com/Josue87/gotator) | Gotator is a tool to generate DNS wordlists through permutations. | 392 | 2023-11-19T14:36:06.000Z |
+| [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 5.5k | 2023-11-19T14:49:56.000Z |
