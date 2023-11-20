@@ -20,3 +20,4 @@
 | [PoC-in-GitHub](https://github.com/nomi-sec/PoC-in-GitHub) | 📡 PoC auto collect from GitHub. ⚠️ Be careful Malware. | 5.5k | 2023-11-19T14:49:56.000Z |
 | [CVE-Easy-List](https://github.com/nomi-sec/CVE-Easy-List) | 👀CVE Simple List | 57 | 2023-11-19T14:53:29.000Z |
 | [awesome-go](https://github.com/avelino/awesome-go) | A curated list of awesome Go frameworks, libraries and software | 112k | 2023-11-19T14:56:44.000Z |
+| [FofaMap](https://github.com/asaotomo/FofaMap) | FofaMap是一款基于Python3开发的跨平台FOFA API数据采集器，支持普通查询、网站存活检测、统计聚合查询、Host聚合查询、网站图标查询、批量查询等查询功能。同时FofaMap还能够自定义查询FOFA数据，并根据查询结果自动去重和筛选关键字，生成对应的Excel表格。另外春节特别版还可以调用Nuclei对FofaMap查询出来的目标进行漏洞扫描，让你在挖洞路上快人一步。 | 359 | 2023-11-20T07:19:04.000Z |
