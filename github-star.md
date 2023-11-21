@@ -27,3 +27,4 @@
 | [Vulnerability-goapp](https://github.com/Hardw01f/Vulnerability-goapp) | Web application build Golang with Vulnerability | 219⭐ | 2023-11-21T03:44:02.000Z |
 | [BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) | Little AV/EDR bypassing lab for training & learning purposes | 266⭐ | 2023-11-21T03:43:19.000Z |
 | [odat](https://github.com/quentinhardy/odat) | ODAT: Oracle Database Attacking Tool | 1.5k⭐ | 2023-11-21T03:42:45.000Z |
+| [Choccy](https://github.com/l3yx/Choccy) | GitHub项目监控 && CodeQL自动扫描 | 36⭐ | 2023-11-21T03:41:45.000Z |
