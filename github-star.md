@@ -24,3 +24,4 @@
 | [traitor](https://github.com/liamg/traitor) | ⬆️ ☠️ 🔥 Automatic Linux privesc via exploitation of low-hanging fruit e.g. gtfobins, pwnkit, dirty pipe, +w docker.sock | 6.3k⭐ | 2023-11-20T15:18:26.000Z |
 | [secgpt](https://github.com/Clouditera/secgpt) | secgpt网络安全大模型 | 105⭐ | 2023-11-21T05:21:46.000Z |
 | [ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) | 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入 | 147⭐ | 2023-11-21T03:45:16.000Z |
+| [Vulnerability-goapp](https://github.com/Hardw01f/Vulnerability-goapp) | Web application build Golang with Vulnerability | 219⭐ | 2023-11-21T03:44:02.000Z |
