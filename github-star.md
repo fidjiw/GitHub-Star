@@ -26,3 +26,4 @@
 | [ActiveMqRCE](https://github.com/Hutt0n0/ActiveMqRCE) | 用java实现构造openwire协议，利用activeMQ < 5.18.3 RCE 回显利用 内存马注入 | 147⭐ | 2023-11-21T03:45:16.000Z |
 | [Vulnerability-goapp](https://github.com/Hardw01f/Vulnerability-goapp) | Web application build Golang with Vulnerability | 219⭐ | 2023-11-21T03:44:02.000Z |
 | [BestEdrOfTheMarket](https://github.com/Xacone/BestEdrOfTheMarket) | Little AV/EDR bypassing lab for training & learning purposes | 266⭐ | 2023-11-21T03:43:19.000Z |
+| [odat](https://github.com/quentinhardy/odat) | ODAT: Oracle Database Attacking Tool | 1.5k⭐ | 2023-11-21T03:42:45.000Z |
