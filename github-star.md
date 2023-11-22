@@ -30,3 +30,4 @@
 | [Choccy](https://github.com/l3yx/Choccy) | GitHub项目监控 && CodeQL自动扫描 | 39⭐ | 2023-11-21T03:41:45.000Z |
 | [HRVS](https://github.com/fidjiw/HRVS) | High-Risk Vulnerability Summary | 1⭐ | 2023-11-21T05:49:38.000Z |
 | [opentrace](https://github.com/Archeb/opentrace) | A cross-platform GUI wrapper for NextTrace. Bringing you the familiar traceroute experience. | 979⭐ | 2023-11-22T02:23:15.000Z |
+| [GoPoc](https://github.com/TonyD0g/GoPoc) | 基于 Json 、自定义Go脚本的快速验证扫描器，用于快速验证目标是否存在该漏洞或深层次利用。 | 22⭐ | 2023-11-22T02:22:11.000Z |
