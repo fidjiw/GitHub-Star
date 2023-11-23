@@ -38,3 +38,4 @@
 | [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | 开屏跳过-安卓系统的开屏广告自动跳过助手 | 4.9k⭐ | 2023-11-23T03:12:25.000Z |
 | [youzer](https://github.com/lorentzenman/youzer) | Fake User Generator for Active Directory Environments | 148⭐ | 2023-11-23T03:39:59.000Z |
 | [ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL) | A declarative static analysis tool for jvm bytecode based Datalog like CodeQL | 267⭐ | 2023-11-23T03:41:59.000Z |
+| [assetfinder](https://github.com/tomnomnom/assetfinder) | Find domains and subdomains related to a given domain | 2.7k⭐ | 2023-11-23T12:33:09.000Z |
