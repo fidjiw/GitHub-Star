@@ -34,3 +34,4 @@
 | [purple-team-attack-automation](https://github.com/praetorian-inc/purple-team-attack-automation) | Praetorian's public release of our Metasploit automation of MITRE ATT&CK™ TTPs | 696⭐ | 2023-11-22T02:21:16.000Z |
 | [rustdesk-hvnc](https://github.com/EddieIvan01/rustdesk-hvnc) | HVNC based on RustDesk | 21⭐ | 2023-11-22T08:31:00.000Z |
 | [reqable-app](https://github.com/reqable/reqable-app) | Reqable issue track repo | 1.1k⭐ | 2023-11-22T10:39:58.000Z |
+| [WeblogicTool](https://github.com/KimJun1010/WeblogicTool) | WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动） | 1.2k⭐ | 2023-11-23T03:13:28.000Z |
