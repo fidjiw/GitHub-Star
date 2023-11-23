@@ -35,3 +35,4 @@
 | [rustdesk-hvnc](https://github.com/EddieIvan01/rustdesk-hvnc) | HVNC based on RustDesk | 21⭐ | 2023-11-22T08:31:00.000Z |
 | [reqable-app](https://github.com/reqable/reqable-app) | Reqable issue track repo | 1.1k⭐ | 2023-11-22T10:39:58.000Z |
 | [WeblogicTool](https://github.com/KimJun1010/WeblogicTool) | WeblogicTool，GUI漏洞利用工具，支持漏洞检测、命令执行、内存马注入、密码解密等（深信服深蓝实验室天威战队强力驱动） | 1.2k⭐ | 2023-11-23T03:13:28.000Z |
+| [Android-Touch-Helper](https://github.com/zfdang/Android-Touch-Helper) | 开屏跳过-安卓系统的开屏广告自动跳过助手 | 4.9k⭐ | 2023-11-23T03:12:25.000Z |
