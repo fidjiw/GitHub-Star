@@ -40,3 +40,4 @@
 | [ByteCodeDL](https://github.com/BytecodeDL/ByteCodeDL) | A declarative static analysis tool for jvm bytecode based Datalog like CodeQL | 267⭐ | 2023-11-23T03:41:59.000Z |
 | [assetfinder](https://github.com/tomnomnom/assetfinder) | Find domains and subdomains related to a given domain | 2.7k⭐ | 2023-11-23T12:33:09.000Z |
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration tool. | 8.5k⭐ | 2023-11-23T12:42:01.000Z |
+| [JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu. | 521⭐ | 2023-11-24T01:22:55.000Z |
