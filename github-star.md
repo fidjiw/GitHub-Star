@@ -44,3 +44,4 @@
 | [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | 269⭐ | 2023-11-24T02:30:32.000Z |
 | [ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) | An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms. | 419⭐ | 2023-11-24T02:33:34.000Z |
 | [SharpMove](https://github.com/0xthirteen/SharpMove) | .NET Project for performing Authenticated Remote Execution | 354⭐ | 2023-11-24T02:32:11.000Z |
+| [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | 23.6k⭐ | 2023-11-24T03:15:23.000Z |
