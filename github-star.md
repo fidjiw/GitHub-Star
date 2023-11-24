@@ -42,3 +42,4 @@
 | [subfinder](https://github.com/projectdiscovery/subfinder) | Fast passive subdomain enumeration tool. | 8.5k⭐ | 2023-11-23T12:42:01.000Z |
 | [JIEJIE.NET](https://github.com/dcsoft-yyf/JIEJIE.NET) | An open source tool to obfuscation .NET assembly file, help you protect your copyright. small,fast and powerfu. | 521⭐ | 2023-11-24T01:22:55.000Z |
 | [NacosExploitGUI](https://github.com/charonlight/NacosExploitGUI) | Nacos漏洞综合利用GUI工具，集成了默认口令漏洞、SQL注入漏洞、身份认证绕过漏洞、反序列化漏洞的检测及其利用 | 269⭐ | 2023-11-24T02:30:32.000Z |
+| [ShellcodeStdio](https://github.com/jackullrich/ShellcodeStdio) | An extensible framework for easily writing compiler optimized position independent x86 / x64 shellcode for windows platforms. | 419⭐ | 2023-11-24T02:33:34.000Z |
