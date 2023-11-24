@@ -46,3 +46,4 @@
 | [SharpMove](https://github.com/0xthirteen/SharpMove) | .NET Project for performing Authenticated Remote Execution | 354⭐ | 2023-11-24T02:32:11.000Z |
 | [AFFiNE](https://github.com/toeverything/AFFiNE) | There can be more than Notion and Miro. AFFiNE is a next-gen knowledge base that brings planning, sorting and creating all together. Privacy first, open-source, customizable and ready to use. | 23.6k⭐ | 2023-11-24T03:15:23.000Z |
 | [JSFinder](https://github.com/Threezh1/JSFinder) | JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website. | 2.3k⭐ | 2023-11-24T08:25:26.000Z |
+| [unocss](https://github.com/unocss/unocss) | The instant on-demand atomic CSS engine. | 14k⭐ | 2023-11-24T08:45:16.000Z |
