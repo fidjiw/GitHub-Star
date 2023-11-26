@@ -50,3 +50,4 @@
 | [blockchain-guide](https://github.com/pseudoyu/blockchain-guide) | 区块链入门指南 | 52⭐ | 2023-11-25T08:04:11.000Z |
 | [404StarLink](https://github.com/knownsec/404StarLink) | 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 | 6.8k⭐ | 2023-11-26T03:09:59.000Z |
 | [ENScan_GO](https://github.com/wgpsec/ENScan_GO) | 一款基于各大企业信息API的工具，解决在遇到的各种针对国内企业信息收集难题。一键收集控股公司ICP备案、APP、小程序、微信公众号等信息聚合导出。 | 2.2k⭐ | 2023-11-26T03:13:09.000Z |
+| [kunpeng](https://github.com/opensec-cn/kunpeng) | kunpeng是一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。 | 1.6k⭐ | 2023-11-26T04:45:38.000Z |
