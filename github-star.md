@@ -48,3 +48,4 @@
 | [JSFinder](https://github.com/Threezh1/JSFinder) | JSFinder is a tool for quickly extracting URLs and subdomains from JS files on a website. | 2.3k⭐ | 2023-11-24T08:25:26.000Z |
 | [unocss](https://github.com/unocss/unocss) | The instant on-demand atomic CSS engine. | 14k⭐ | 2023-11-24T08:45:16.000Z |
 | [blockchain-guide](https://github.com/pseudoyu/blockchain-guide) | 区块链入门指南 | 52⭐ | 2023-11-25T08:04:11.000Z |
+| [404StarLink](https://github.com/knownsec/404StarLink) | 404StarLink - 推荐优质、有意义、有趣、坚持维护的安全开源项目 | 6.8k⭐ | 2023-11-26T03:09:59.000Z |
