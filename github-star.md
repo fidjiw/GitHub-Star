@@ -53,3 +53,4 @@
 | [kunpeng](https://github.com/opensec-cn/kunpeng) | kunpeng是一个Golang编写的开源POC框架/库，以动态链接库的形式提供各种语言调用，通过此项目可快速开发漏洞检测类的系统。 | 1.6k⭐ | 2023-11-26T04:45:38.000Z |
 | [vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose | 15.3k⭐ | 2023-11-27T03:51:49.000Z |
 | [PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) | Experimental fuzzer for PHP libraries | 385⭐ | 2023-11-27T03:57:21.000Z |
+| [awesome-honeypots](https://github.com/paralax/awesome-honeypots) | an awesome list of honeypot resources | 7.5k⭐ | 2023-11-27T06:49:03.000Z |
