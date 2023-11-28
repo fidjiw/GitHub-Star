@@ -56,3 +56,4 @@
 | [awesome-honeypots](https://github.com/paralax/awesome-honeypots) | an awesome list of honeypot resources | 7.5k⭐ | 2023-11-27T06:49:03.000Z |
 | [agentcrack](https://github.com/rzte/agentcrack) | 不那么一样的 Java Agent 内存马 | 44⭐ | 2023-11-28T03:20:28.000Z |
 | [SharpRODC](https://github.com/wh0amitz/SharpRODC) | To audit the security of read-only domain controllers | 27⭐ | 2023-11-28T03:19:44.000Z |
+| [jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) | 基于 jdwp-shellifier 的进阶JDWP漏洞利用脚本（动态执行Java/Js代码并获得回显） | 65⭐ | 2023-11-28T03:18:44.000Z |
