@@ -58,3 +58,4 @@
 | [SharpRODC](https://github.com/wh0amitz/SharpRODC) | To audit the security of read-only domain controllers | 27⭐ | 2023-11-28T03:19:44.000Z |
 | [jdwp-codeifier](https://github.com/l3yx/jdwp-codeifier) | 基于 jdwp-shellifier 的进阶JDWP漏洞利用脚本（动态执行Java/Js代码并获得回显） | 65⭐ | 2023-11-28T03:18:44.000Z |
 | [NCTOOls](https://github.com/wafinfo/NCTOOls) | 一款针对用友NC综合漏洞利用工具 | 43⭐ | 2023-11-28T03:21:40.000Z |
+| [packer](https://github.com/1derian/packer) | 一款针对cs shellcode的打包器 | 3⭐ | 2023-11-28T03:21:03.000Z |
