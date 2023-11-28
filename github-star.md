@@ -54,3 +54,4 @@
 | [vulhub](https://github.com/vulhub/vulhub) | Pre-Built Vulnerable Environments Based on Docker-Compose | 15.3k⭐ | 2023-11-27T03:51:49.000Z |
 | [PHP-Fuzzer](https://github.com/nikic/PHP-Fuzzer) | Experimental fuzzer for PHP libraries | 385⭐ | 2023-11-27T03:57:21.000Z |
 | [awesome-honeypots](https://github.com/paralax/awesome-honeypots) | an awesome list of honeypot resources | 7.5k⭐ | 2023-11-27T06:49:03.000Z |
+| [agentcrack](https://github.com/rzte/agentcrack) | 不那么一样的 Java Agent 内存马 | 44⭐ | 2023-11-28T03:20:28.000Z |
