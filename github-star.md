@@ -60,3 +60,4 @@
 | [NCTOOls](https://github.com/wafinfo/NCTOOls) | 一款针对用友NC综合漏洞利用工具 | 43⭐ | 2023-11-28T03:21:40.000Z |
 | [packer](https://github.com/1derian/packer) | 一款针对cs shellcode的打包器 | 3⭐ | 2023-11-28T03:21:03.000Z |
 | [cdncheck](https://github.com/projectdiscovery/cdncheck) | A utility to detect various technology for a given IP address. | 517⭐ | 2023-11-28T08:49:25.000Z |
+| [Bypass_cdn](https://github.com/Pluto-123/Bypass_cdn) | 绕过CDN查找网站的真实IP地址 | 144⭐ | 2023-11-28T08:56:49.000Z |
