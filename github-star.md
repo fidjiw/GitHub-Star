@@ -64,3 +64,4 @@
 | [API-Explorer](https://github.com/mrknow001/API-Explorer) | API接口管理工具 | 34⭐ | 2023-11-29T02:05:20.000Z |
 | [RecycledGate](https://github.com/thefLink/RecycledGate) | Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll | 384⭐ | 2023-11-29T02:04:43.000Z |
 | [extractor-java](https://github.com/waderwu/extractor-java) | CodeQL extractor for java, which don't need to compile java source | 256⭐ | 2023-11-29T02:07:43.000Z |
+| [docker-splunk](https://github.com/splunk/docker-splunk) | Splunk Docker GitHub Repository | 419⭐ | 2023-11-29T08:22:43.000Z |
