@@ -62,3 +62,4 @@
 | [cdncheck](https://github.com/projectdiscovery/cdncheck) | A utility to detect various technology for a given IP address. | 517⭐ | 2023-11-28T08:49:25.000Z |
 | [Bypass_cdn](https://github.com/Pluto-123/Bypass_cdn) | 绕过CDN查找网站的真实IP地址 | 144⭐ | 2023-11-28T08:56:49.000Z |
 | [API-Explorer](https://github.com/mrknow001/API-Explorer) | API接口管理工具 | 34⭐ | 2023-11-29T02:05:20.000Z |
+| [RecycledGate](https://github.com/thefLink/RecycledGate) | Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll | 384⭐ | 2023-11-29T02:04:43.000Z |
