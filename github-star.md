@@ -65,3 +65,4 @@
 | [RecycledGate](https://github.com/thefLink/RecycledGate) | Hellsgate + Halosgate/Tartarosgate. Ensures that all systemcalls go through ntdll.dll | 384⭐ | 2023-11-29T02:04:43.000Z |
 | [extractor-java](https://github.com/waderwu/extractor-java) | CodeQL extractor for java, which don't need to compile java source | 256⭐ | 2023-11-29T02:07:43.000Z |
 | [docker-splunk](https://github.com/splunk/docker-splunk) | Splunk Docker GitHub Repository | 419⭐ | 2023-11-29T08:22:43.000Z |
+| [Beast_Bomber](https://github.com/crut0i/Beast_Bomber) | The best open source bomber | 1.2k⭐ | 2023-11-29T13:21:10.000Z |
