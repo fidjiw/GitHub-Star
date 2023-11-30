@@ -68,3 +68,4 @@
 | [Beast_Bomber](https://github.com/crut0i/Beast_Bomber) | The best open source bomber | 1.2k⭐ | 2023-11-29T13:21:10.000Z |
 | [webhook](https://github.com/adnanh/webhook) | webhook is a lightweight incoming webhook server to run shell commands | 9.5k⭐ | 2023-11-30T02:47:15.000Z |
 | [Libc-GOT-Hijacking](https://github.com/n132/Libc-GOT-Hijacking) | Binary Exploitation Skill. Gain RCE from arbitrary write. | 77⭐ | 2023-11-30T03:26:21.000Z |
+| [scrying](https://github.com/nccgroup/scrying) | A tool for collecting RDP, web and VNC screenshots all in one place | 396⭐ | 2023-11-30T03:26:15.000Z |
