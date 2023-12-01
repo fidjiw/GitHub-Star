@@ -73,3 +73,4 @@
 | [IOK](https://github.com/phish-report/IOK) | IOK (Indicator Of Kit) is an open source ruleset of phishing threat actor tools and tactics | 109⭐ | 2023-12-01T01:34:09.000Z |
 | [android-crackme-challenge](https://github.com/reoky/android-crackme-challenge) | A collection of reverse engineering challenges for learning about the Android operating system and mobile security. | 336⭐ | 2023-12-01T03:22:56.000Z |
 | [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) | Scan files or process memory for CobaltStrike beacons and parse their configuration | 833⭐ | 2023-12-01T03:22:31.000Z |
+| [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 | 1.2k⭐ | 2023-12-01T03:21:24.000Z |
