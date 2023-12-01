@@ -72,3 +72,4 @@
 | [jolokia-exploitation-toolkit](https://github.com/laluka/jolokia-exploitation-toolkit) | jolokia-exploitation-toolkit | 224⭐ | 2023-11-30T14:07:57.000Z |
 | [IOK](https://github.com/phish-report/IOK) | IOK (Indicator Of Kit) is an open source ruleset of phishing threat actor tools and tactics | 109⭐ | 2023-12-01T01:34:09.000Z |
 | [android-crackme-challenge](https://github.com/reoky/android-crackme-challenge) | A collection of reverse engineering challenges for learning about the Android operating system and mobile security. | 336⭐ | 2023-12-01T03:22:56.000Z |
+| [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) | Scan files or process memory for CobaltStrike beacons and parse their configuration | 833⭐ | 2023-12-01T03:22:31.000Z |
