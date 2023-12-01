@@ -77,3 +77,4 @@
 | [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。 | 392⭐ | 2023-12-01T11:13:58.000Z |
 | [nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | 248⭐ | 2023-12-01T12:40:01.000Z |
 | [faction](https://github.com/factionsecurity/faction) | Pen Test Report Generation and Assessment Collaboration | 103⭐ | 2023-12-01T23:43:06.000Z |
+| [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | ASPM, DevSecOps, Vulnerability Management. All on one platform. | 3.1k⭐ | 2023-12-01T23:53:29.000Z |
