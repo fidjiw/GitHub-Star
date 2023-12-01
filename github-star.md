@@ -70,3 +70,4 @@
 | [Libc-GOT-Hijacking](https://github.com/n132/Libc-GOT-Hijacking) | Binary Exploitation Skill. Gain RCE from arbitrary write. | 77⭐ | 2023-11-30T03:26:21.000Z |
 | [scrying](https://github.com/nccgroup/scrying) | A tool for collecting RDP, web and VNC screenshots all in one place | 396⭐ | 2023-11-30T03:26:15.000Z |
 | [jolokia-exploitation-toolkit](https://github.com/laluka/jolokia-exploitation-toolkit) | jolokia-exploitation-toolkit | 224⭐ | 2023-11-30T14:07:57.000Z |
+| [IOK](https://github.com/phish-report/IOK) | IOK (Indicator Of Kit) is an open source ruleset of phishing threat actor tools and tactics | 109⭐ | 2023-12-01T01:34:09.000Z |
