@@ -75,3 +75,4 @@
 | [CobaltStrikeScan](https://github.com/Apr4h/CobaltStrikeScan) | Scan files or process memory for CobaltStrike beacons and parse their configuration | 833⭐ | 2023-12-01T03:22:31.000Z |
 | [WeChatMsg](https://github.com/LC044/WeChatMsg) | 提取微信聊天记录，将其导出成HTML、Word、CSV文档永久保存，对聊天记录进行分析生成年度聊天报告 | 1.2k⭐ | 2023-12-01T03:21:24.000Z |
 | [PyWxDump](https://github.com/xaoyaoo/PyWxDump) | 获取微信账号信息(昵称/账号/手机/邮箱/数据库密钥/wxid)；PC微信数据库读取、解密脚本；聊天记录查看工具；聊天记录导出为html(包含语音图片)。支持多账户信息获取，支持所有微信版本。 | 392⭐ | 2023-12-01T11:13:58.000Z |
+| [nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | 248⭐ | 2023-12-01T12:40:01.000Z |
