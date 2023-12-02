@@ -78,3 +78,4 @@
 | [nuclei-ai-extension](https://github.com/projectdiscovery/nuclei-ai-extension) | Nuclei AI - Browser Extension for Rapid Nuclei Template Generation | 248⭐ | 2023-12-01T12:40:01.000Z |
 | [faction](https://github.com/factionsecurity/faction) | Pen Test Report Generation and Assessment Collaboration | 103⭐ | 2023-12-01T23:43:06.000Z |
 | [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | ASPM, DevSecOps, Vulnerability Management. All on one platform. | 3.1k⭐ | 2023-12-01T23:53:29.000Z |
+| [NucleiTP](https://github.com/ExpLangcn/NucleiTP) | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！ | 1.1k⭐ | 2023-12-02T07:35:32.000Z |
