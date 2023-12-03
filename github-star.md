@@ -80,3 +80,4 @@
 | [django-DefectDojo](https://github.com/DefectDojo/django-DefectDojo) | ASPM, DevSecOps, Vulnerability Management. All on one platform. | 3.1k⭐ | 2023-12-01T23:53:29.000Z |
 | [NucleiTP](https://github.com/ExpLangcn/NucleiTP) | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！ | 1.1k⭐ | 2023-12-02T07:35:32.000Z |
 | [gron](https://github.com/tomnomnom/gron) | Make JSON greppable! | 12.8k⭐ | 2023-12-03T02:57:31.000Z |
+| [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | 25.9k⭐ | 2023-12-03T07:53:09.000Z |
