@@ -91,3 +91,4 @@
 | [ctfr](https://github.com/UnaPibaGeek/ctfr) | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. | 1.8k⭐ | 2023-12-04T03:17:30.000Z |
 | [Sn1per](https://github.com/1N3/Sn1per) | Attack Surface Management Platform | 7.1k⭐ | 2023-12-04T05:03:29.000Z |
 | [jq](https://github.com/jqlang/jq) | Command-line JSON processor | 27.3k⭐ | 2023-12-04T05:11:14.000Z |
+| [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites | 9.2k⭐ | 2023-12-04T06:08:11.000Z |
