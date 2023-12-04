@@ -81,3 +81,4 @@
 | [NucleiTP](https://github.com/ExpLangcn/NucleiTP) | 自动整合全网Nuclei的漏洞POC，实时同步更新最新POC！ | 1.1k⭐ | 2023-12-02T07:35:32.000Z |
 | [gron](https://github.com/tomnomnom/gron) | Make JSON greppable! | 12.8k⭐ | 2023-12-03T02:57:31.000Z |
 | [whisper.cpp](https://github.com/ggerganov/whisper.cpp) | Port of OpenAI's Whisper model in C/C++ | 25.9k⭐ | 2023-12-03T07:53:09.000Z |
+| [Search_Viewer](https://github.com/G3et/Search_Viewer) | 集Fofa、Hunter鹰图、Shodan、360 quake、Zoomeye 钟馗之眼、censys 为一体的空间测绘gui图形界面化工具，支持一键采集爬取和导出fofa、shodan等数据，方便快捷查看 | 463⭐ | 2023-12-04T01:49:10.000Z |
