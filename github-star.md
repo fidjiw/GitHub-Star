@@ -85,3 +85,4 @@
 | [wtv](https://github.com/biancangming/wtv) | 解决电脑、手机看电视直播的苦恼，收集各种直播源，电视直播网站 | 9.2k⭐ | 2023-12-04T02:07:01.000Z |
 | [template-injection-table](https://github.com/Hackmanit/template-injection-table) | The Template Injection Table is intended to help during the testing of an application for template injection vulnerabilities. | 7⭐ | 2023-12-04T02:58:37.000Z |
 | [LocalPotato](https://github.com/decoder-it/LocalPotato) | 该项目没有About | 592⭐ | 2023-12-04T02:58:05.000Z |
+| [CoercedPotatoRDLL](https://github.com/sokaRepo/CoercedPotatoRDLL) | Reflective DLL to privesc from NT Service to SYSTEM using SeImpersonateToken privilege | 79⭐ | 2023-12-04T02:58:02.000Z |
