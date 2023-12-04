@@ -86,3 +86,4 @@
 | [template-injection-table](https://github.com/Hackmanit/template-injection-table) | The Template Injection Table is intended to help during the testing of an application for template injection vulnerabilities. | 7⭐ | 2023-12-04T02:58:37.000Z |
 | [LocalPotato](https://github.com/decoder-it/LocalPotato) | 该项目没有About | 592⭐ | 2023-12-04T02:58:05.000Z |
 | [CoercedPotatoRDLL](https://github.com/sokaRepo/CoercedPotatoRDLL) | Reflective DLL to privesc from NT Service to SYSTEM using SeImpersonateToken privilege | 79⭐ | 2023-12-04T02:58:02.000Z |
+| [bambdas](https://github.com/PortSwigger/bambdas) | Bambdas collection for Burp Suite Professional and Community. | 21⭐ | 2023-12-04T02:56:31.000Z |
