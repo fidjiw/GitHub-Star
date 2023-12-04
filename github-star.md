@@ -88,3 +88,4 @@
 | [CoercedPotatoRDLL](https://github.com/sokaRepo/CoercedPotatoRDLL) | Reflective DLL to privesc from NT Service to SYSTEM using SeImpersonateToken privilege | 79⭐ | 2023-12-04T02:58:02.000Z |
 | [bambdas](https://github.com/PortSwigger/bambdas) | Bambdas collection for Burp Suite Professional and Community. | 21⭐ | 2023-12-04T02:56:31.000Z |
 | [Kubestroyer](https://github.com/Rolix44/Kubestroyer) | Kubernetes exploitation tool | 334⭐ | 2023-12-04T02:55:46.000Z |
+| [ctfr](https://github.com/UnaPibaGeek/ctfr) | Abusing Certificate Transparency logs for getting HTTPS websites subdomains. | 1.8k⭐ | 2023-12-04T03:17:30.000Z |
