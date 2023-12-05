@@ -93,3 +93,4 @@
 | [jq](https://github.com/jqlang/jq) | Command-line JSON processor | 27.3k⭐ | 2023-12-04T05:11:14.000Z |
 | [maigret](https://github.com/soxoj/maigret) | 🕵️‍♂️ Collect a dossier on a person by username from thousands of sites | 9.2k⭐ | 2023-12-04T06:08:11.000Z |
 | [Mindmap](https://github.com/Ignitetechnologies/Mindmap) | This repository will contain many mindmaps for cyber security technologies, methodologies, courses, and certifications in a tree structure to give brief details about them | 5.2k⭐ | 2023-12-04T11:26:21.000Z |
+| [faxhell](https://github.com/ionescu007/faxhell) | A Bind Shell Using the Fax Service and a DLL Hijack | 298⭐ | 2023-12-05T03:03:21.000Z |
