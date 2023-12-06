@@ -99,3 +99,4 @@
 | [BurpHttpHelper](https://github.com/MaskCyberSecurityTeam/BurpHttpHelper) | BurpHttpHelper是一款Burpsuite插件，主要用于简化和解决Burpsuite对Http的一些操作. | 70⭐ | 2023-12-06T02:29:48.000Z |
 | [PSDecode](https://github.com/R3MRUM/PSDecode) | PowerShell script for deobfuscating encoded PowerShell scripts | 390⭐ | 2023-12-06T02:29:17.000Z |
 | [0xUBypass](https://github.com/Yeuoly/0xUBypass) | AntiAV shellcode loader | 218⭐ | 2023-12-06T02:28:30.000Z |
+| [SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) | Decrypt Veeam database passwords | 130⭐ | 2023-12-06T02:27:41.000Z |
