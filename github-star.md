@@ -98,3 +98,4 @@
 | [FakeToa](https://github.com/BeichenDream/FakeToa) | Fake IP sources using Linux's BPF feature | 221⭐ | 2023-12-05T03:00:56.000Z |
 | [BurpHttpHelper](https://github.com/MaskCyberSecurityTeam/BurpHttpHelper) | BurpHttpHelper是一款Burpsuite插件，主要用于简化和解决Burpsuite对Http的一些操作. | 70⭐ | 2023-12-06T02:29:48.000Z |
 | [PSDecode](https://github.com/R3MRUM/PSDecode) | PowerShell script for deobfuscating encoded PowerShell scripts | 390⭐ | 2023-12-06T02:29:17.000Z |
+| [0xUBypass](https://github.com/Yeuoly/0xUBypass) | AntiAV shellcode loader | 218⭐ | 2023-12-06T02:28:30.000Z |
