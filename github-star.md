@@ -96,3 +96,4 @@
 | [faxhell](https://github.com/ionescu007/faxhell) | A Bind Shell Using the Fax Service and a DLL Hijack | 298⭐ | 2023-12-05T03:03:21.000Z |
 | [Eventlogedit-evtx--Evolution](https://github.com/3gstudent/Eventlogedit-evtx--Evolution) | Remove individual lines from Windows XML Event Log (EVTX) files | 245⭐ | 2023-12-05T03:01:29.000Z |
 | [FakeToa](https://github.com/BeichenDream/FakeToa) | Fake IP sources using Linux's BPF feature | 221⭐ | 2023-12-05T03:00:56.000Z |
+| [BurpHttpHelper](https://github.com/MaskCyberSecurityTeam/BurpHttpHelper) | BurpHttpHelper是一款Burpsuite插件，主要用于简化和解决Burpsuite对Http的一些操作. | 70⭐ | 2023-12-06T02:29:48.000Z |
