@@ -105,3 +105,4 @@
 | [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | Learn eBPF by examples  eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景 | 1.4k⭐ | 2023-12-07T02:47:13.000Z |
 | [NTFuzz](https://github.com/SoftSec-KAIST/NTFuzz) | NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis (IEEE S&P '21) | 79⭐ | 2023-12-07T02:46:39.000Z |
 | [PowerDecode](https://github.com/Malandrone/PowerDecode) | PowerDecode is a PowerShell-based tool that allows to deobfuscate PowerShell scripts obfuscated across multiple layers. The tool performs code dynamic analysis, extracting malware hosting URLs and checking http response.It can also detect if the malware attempts to inject shellcode into memory. | 92⭐ | 2023-12-07T02:46:04.000Z |
+| [GhostDriver](https://github.com/BlackSnufkin/GhostDriver) | yet another AV killer tool using BYOVD | 151⭐ | 2023-12-07T03:03:08.000Z |
