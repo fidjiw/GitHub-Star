@@ -106,3 +106,4 @@
 | [NTFuzz](https://github.com/SoftSec-KAIST/NTFuzz) | NTFUZZ: Enabling Type-Aware Kernel Fuzzing on Windows with Static Binary Analysis (IEEE S&P '21) | 79⭐ | 2023-12-07T02:46:39.000Z |
 | [PowerDecode](https://github.com/Malandrone/PowerDecode) | PowerDecode is a PowerShell-based tool that allows to deobfuscate PowerShell scripts obfuscated across multiple layers. The tool performs code dynamic analysis, extracting malware hosting URLs and checking http response.It can also detect if the malware attempts to inject shellcode into memory. | 92⭐ | 2023-12-07T02:46:04.000Z |
 | [GhostDriver](https://github.com/BlackSnufkin/GhostDriver) | yet another AV killer tool using BYOVD | 151⭐ | 2023-12-07T03:03:08.000Z |
+| [cariddi](https://github.com/edoardottt/cariddi) | Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more | 1.2k⭐ | 2023-12-07T12:54:08.000Z |
