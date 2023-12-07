@@ -102,3 +102,4 @@
 | [SharpVeeamDecryptor](https://github.com/S3cur3Th1sSh1t/SharpVeeamDecryptor) | Decrypt Veeam database passwords | 130⭐ | 2023-12-06T02:27:41.000Z |
 | [ApricusFindEvil](https://github.com/AfterSnows/ApricusFindEvil) | 检测查杀java内存马 | 13⭐ | 2023-12-06T02:30:34.000Z |
 | [msoffcrypto-tool](https://github.com/nolze/msoffcrypto-tool) | Python tool and library for decrypting MS Office files with passwords or other keys | 464⭐ | 2023-12-07T02:47:43.000Z |
+| [bpf-developer-tutorial](https://github.com/eunomia-bpf/bpf-developer-tutorial) | Learn eBPF by examples  eBPF 开发者教程与知识库：通过小工具和示例一步步学习 eBPF，包含性能、网络、安全等多种应用场景 | 1.4k⭐ | 2023-12-07T02:47:13.000Z |
