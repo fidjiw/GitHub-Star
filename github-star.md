@@ -109,3 +109,4 @@
 | [cariddi](https://github.com/edoardottt/cariddi) | Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more | 1.2k⭐ | 2023-12-07T12:54:08.000Z |
 | [FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) | 无需文件落地Agent内存马生成器 | 52⭐ | 2023-12-08T02:53:00.000Z |
 | [SPATool](https://github.com/SummerSec/SPATool) | 静态程序分析工具 主要生成方法的CFG和.java文件的AST | 110⭐ | 2023-12-08T02:51:59.000Z |
+| [Pscx](https://github.com/Pscx/Pscx) | PowerShell Community Extensions module repository | 669⭐ | 2023-12-08T02:51:05.000Z |
