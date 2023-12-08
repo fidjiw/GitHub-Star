@@ -107,3 +107,4 @@
 | [PowerDecode](https://github.com/Malandrone/PowerDecode) | PowerDecode is a PowerShell-based tool that allows to deobfuscate PowerShell scripts obfuscated across multiple layers. The tool performs code dynamic analysis, extracting malware hosting URLs and checking http response.It can also detect if the malware attempts to inject shellcode into memory. | 92⭐ | 2023-12-07T02:46:04.000Z |
 | [GhostDriver](https://github.com/BlackSnufkin/GhostDriver) | yet another AV killer tool using BYOVD | 151⭐ | 2023-12-07T03:03:08.000Z |
 | [cariddi](https://github.com/edoardottt/cariddi) | Take a list of domains, crawl urls and scan for endpoints, secrets, api keys, file extensions, tokens and more | 1.2k⭐ | 2023-12-07T12:54:08.000Z |
+| [FilelessAgentMemShell](https://github.com/whocansee/FilelessAgentMemShell) | 无需文件落地Agent内存马生成器 | 52⭐ | 2023-12-08T02:53:00.000Z |
