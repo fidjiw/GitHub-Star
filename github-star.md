@@ -115,3 +115,4 @@
 | [find-gh-poc](https://github.com/trickest/find-gh-poc) | Find CVE PoCs on GitHub | 126⭐ | 2023-12-08T09:59:45.000Z |
 | [PoolParty](https://github.com/SafeBreach-Labs/PoolParty) | A set of fully-undetectable process injection techniques abusing Windows Thread Pools | 131⭐ | 2023-12-09T03:03:48.000Z |
 | [eyeballer](https://github.com/BishopFox/eyeballer) | Convolutional neural network for analyzing pentest screenshots | 905⭐ | 2023-12-09T05:23:56.000Z |
+| [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) | This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports | 2.8k⭐ | 2023-12-09T08:16:18.000Z |
