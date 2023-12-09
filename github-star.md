@@ -113,3 +113,4 @@
 | [java-all-call-graph](https://github.com/Adrninistrator/java-all-call-graph) | Generate all call graph for Java Code. | 339⭐ | 2023-12-08T02:55:27.000Z |
 | [awesome-threat-intelligence](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of Awesome Threat Intelligence resources | 6.7k⭐ | 2023-12-08T06:09:39.000Z |
 | [find-gh-poc](https://github.com/trickest/find-gh-poc) | Find CVE PoCs on GitHub | 126⭐ | 2023-12-08T09:59:45.000Z |
+| [PoolParty](https://github.com/SafeBreach-Labs/PoolParty) | A set of fully-undetectable process injection techniques abusing Windows Thread Pools | 131⭐ | 2023-12-09T03:03:48.000Z |
