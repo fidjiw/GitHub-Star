@@ -117,3 +117,4 @@
 | [eyeballer](https://github.com/BishopFox/eyeballer) | Convolutional neural network for analyzing pentest screenshots | 905⭐ | 2023-12-09T05:23:56.000Z |
 | [bounty-targets-data](https://github.com/arkadiyt/bounty-targets-data) | This repo contains hourly-updated data dumps of bug bounty platform scopes (like Hackerone/Bugcrowd/Intigriti/etc) that are eligible for reports | 2.8k⭐ | 2023-12-09T08:16:18.000Z |
 | [judas](https://github.com/canc3s/judas) | 轻便的恶意反代 | 33⭐ | 2023-12-11T02:08:31.000Z |
+| [DecryptOA](https://github.com/mastersir-lab/DecryptOA) | OA系统解密小工具 | 8⭐ | 2023-12-11T02:08:09.000Z |
