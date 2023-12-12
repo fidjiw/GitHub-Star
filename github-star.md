@@ -123,3 +123,4 @@
 | [mantis](https://github.com/PhonePe/mantis) | Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning. | 192⭐ | 2023-12-12T02:35:32.000Z |
 | [Reverse-shell-cheatsheet](https://github.com/r00tSe7en/Reverse-shell-cheatsheet) | 反弹Shell命令一键生成 | 83⭐ | 2023-12-12T02:34:53.000Z |
 | [POSTDump](https://github.com/YOLOP0wn/POSTDump) | 该项目没有About | 225⭐ | 2023-12-12T02:33:31.000Z |
+| [Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode) | Gel4y-Mini-Shell-Backdoor-Decode | 99⭐ | 2023-12-12T02:36:35.000Z |
