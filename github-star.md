@@ -121,3 +121,4 @@
 | [go-gin-vul](https://github.com/godzeo/go-gin-vul) | GO语言漏洞靶场 GIN框架 支持docker一键启动 | 24⭐ | 2023-12-11T02:07:42.000Z |
 | [UserNameDictTools](https://github.com/abc123info/UserNameDictTools) | 用户名字典生成工具V0.2发布，(将中文汉字姓名转成11种格式的拼音) | 83⭐ | 2023-12-11T02:07:12.000Z |
 | [mantis](https://github.com/PhonePe/mantis) | Mantis is a security framework that automates the workflow of discovery, reconnaissance, and vulnerability scanning. | 192⭐ | 2023-12-12T02:35:32.000Z |
+| [Reverse-shell-cheatsheet](https://github.com/r00tSe7en/Reverse-shell-cheatsheet) | 反弹Shell命令一键生成 | 83⭐ | 2023-12-12T02:34:53.000Z |
