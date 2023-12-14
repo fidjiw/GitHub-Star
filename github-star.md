@@ -126,3 +126,4 @@
 | [Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode) | Gel4y-Mini-Shell-Backdoor-Decode | 99⭐ | 2023-12-12T02:36:35.000Z |
 | [MSSQLProxy](https://github.com/Anion3r/MSSQLProxy) | 一个能够利用MSSQL的xp_cmdshell功能来进行流量代理的脚本，用于在站酷分离且不出网SQL注入进行代理 | 47⭐ | 2023-12-14T03:03:12.000Z |
 | [ntlmv1-multi](https://github.com/evilmog/ntlmv1-multi) | NTLMv1 Multitool | 505⭐ | 2023-12-14T03:02:22.000Z |
+| [headerpwn](https://github.com/devanshbatham/headerpwn) | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | 209⭐ | 2023-12-14T03:01:41.000Z |
