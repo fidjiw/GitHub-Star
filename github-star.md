@@ -124,3 +124,4 @@
 | [Reverse-shell-cheatsheet](https://github.com/r00tSe7en/Reverse-shell-cheatsheet) | 反弹Shell命令一键生成 | 83⭐ | 2023-12-12T02:34:53.000Z |
 | [POSTDump](https://github.com/YOLOP0wn/POSTDump) | 该项目没有About | 225⭐ | 2023-12-12T02:33:31.000Z |
 | [Gel4y-Mini-Shell-Backdoor-Decode](https://github.com/AabyssZG/Gel4y-Mini-Shell-Backdoor-Decode) | Gel4y-Mini-Shell-Backdoor-Decode | 99⭐ | 2023-12-12T02:36:35.000Z |
+| [MSSQLProxy](https://github.com/Anion3r/MSSQLProxy) | 一个能够利用MSSQL的xp_cmdshell功能来进行流量代理的脚本，用于在站酷分离且不出网SQL注入进行代理 | 47⭐ | 2023-12-14T03:03:12.000Z |
