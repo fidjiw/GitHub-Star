@@ -128,3 +128,4 @@
 | [ntlmv1-multi](https://github.com/evilmog/ntlmv1-multi) | NTLMv1 Multitool | 505⭐ | 2023-12-14T03:02:22.000Z |
 | [headerpwn](https://github.com/devanshbatham/headerpwn) | A fuzzer for finding anomalies and analyzing how servers respond to different HTTP headers | 209⭐ | 2023-12-14T03:01:41.000Z |
 | [Log4j2Scan](https://github.com/whwlsfb/Log4j2Scan) | Log4j2 RCE Passive Scanner plugin for BurpSuite | 660⭐ | 2023-12-14T03:01:04.000Z |
+| [oxorany](https://github.com/llxiaoyuan/oxorany) | obfuscated any constant encryption in compile time on any platform | 284⭐ | 2023-12-15T02:54:48.000Z |
