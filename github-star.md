@@ -132,3 +132,4 @@
 | [ProcessGuard](https://github.com/KamenRiderKuuga/ProcessGuard) | A windows service to run all kinds of executeable from Session 0, can also be used to run console programs as windows services | 120⭐ | 2023-12-15T02:56:32.000Z |
 | [CloakQuest3r](https://github.com/spyboy-productions/CloakQuest3r) | Uncover the true IP address of websites safeguarded by Cloudflare | 203⭐ | 2023-12-15T02:55:54.000Z |
 | [PoolPartyBof](https://github.com/0xEr3bus/PoolPartyBof) | A beacon object file implementation of PoolParty Process Injection Technique. | 151⭐ | 2023-12-15T02:55:22.000Z |
+| [nuclei-plus](https://github.com/Yong-An-Dang/nuclei-plus) | Functional enhancement based on nuclei | 95⭐ | 2023-12-15T03:16:15.000Z |
