@@ -138,3 +138,4 @@
 | [BounceBack](https://github.com/D00Movenok/BounceBack) | ↕️🤫 Stealth redirector for your red team operation security | 344⭐ | 2023-12-17T00:07:42.000Z |
 | [wstunnel](https://github.com/erebe/wstunnel) | Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available | 2k⭐ | 2023-12-17T09:27:00.000Z |
 | [python-whydo](https://github.com/chinesehuazhou/python-whydo) | Explore Python's charms by asking WHY questions | 1.3k⭐ | 2023-12-17T15:03:27.000Z |
+| [wrapwrap](https://github.com/ambionics/wrapwrap) | Generates a  chain that adds a prefix and a suffix to the contents of a file. | 45⭐ | 2023-12-17T15:55:53.000Z |
