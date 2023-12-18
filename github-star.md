@@ -139,3 +139,4 @@
 | [wstunnel](https://github.com/erebe/wstunnel) | Tunnel all your traffic over websocket protocol - Bypass firewalls/DPI - Static binary available | 2k⭐ | 2023-12-17T09:27:00.000Z |
 | [python-whydo](https://github.com/chinesehuazhou/python-whydo) | Explore Python's charms by asking WHY questions | 1.3k⭐ | 2023-12-17T15:03:27.000Z |
 | [wrapwrap](https://github.com/ambionics/wrapwrap) | Generates a  chain that adds a prefix and a suffix to the contents of a file. | 45⭐ | 2023-12-17T15:55:53.000Z |
+| [vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) | This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter | 807⭐ | 2023-12-18T02:14:37.000Z |
