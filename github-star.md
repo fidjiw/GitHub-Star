@@ -142,3 +142,4 @@
 | [vulnerability-Checklist](https://github.com/Az0x7/vulnerability-Checklist) | This repository contain a lot of web and api vulnerability checklist , a lot of vulnerability ideas and tips from twitter | 807⭐ | 2023-12-18T02:14:37.000Z |
 | [meme-rw](https://github.com/SamuelTulach/meme-rw) | Archive R/W into any protected process by changing the value of KTHREAD->PreviousMode | 111⭐ | 2023-12-18T02:13:00.000Z |
 | [DirtyCLR](https://github.com/ipSlav/DirtyCLR) | An App Domain Manager Injection DLL PoC on steroids | 59⭐ | 2023-12-18T02:18:11.000Z |
+| [amber](https://github.com/EgeBalci/amber) | Reflective PE packer. | 1k⭐ | 2023-12-18T12:34:09.000Z |
