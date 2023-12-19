@@ -144,3 +144,4 @@
 | [DirtyCLR](https://github.com/ipSlav/DirtyCLR) | An App Domain Manager Injection DLL PoC on steroids | 59⭐ | 2023-12-18T02:18:11.000Z |
 | [amber](https://github.com/EgeBalci/amber) | Reflective PE packer. | 1k⭐ | 2023-12-18T12:34:09.000Z |
 | [gptcommit](https://github.com/zurawiki/gptcommit) | A git prepare-commit-msg hook for authoring commit messages with GPT-3. | 2.2k⭐ | 2023-12-19T03:19:01.000Z |
+| [doop-mirror](https://github.com/plast-lab/doop-mirror) | Mirror of Doop: https://bitbucket.org/yanniss/doop | 122⭐ | 2023-12-19T07:38:04.000Z |
