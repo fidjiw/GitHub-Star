@@ -147,3 +147,4 @@
 | [doop-mirror](https://github.com/plast-lab/doop-mirror) | Mirror of Doop: https://bitbucket.org/yanniss/doop | 122⭐ | 2023-12-19T07:38:04.000Z |
 | [Blackbone](https://github.com/DarthTon/Blackbone) | Windows memory hacking library | 4.4k⭐ | 2023-12-20T02:29:24.000Z |
 | [de4py](https://github.com/Sec-Fork/de4py) | toolkit for python reverse engineering | 1⭐ | 2023-12-20T02:28:48.000Z |
+| [de4py](https://github.com/Fadi002/de4py) | toolkit for python reverse engineering | 342⭐ | 2023-12-20T02:28:07.000Z |
