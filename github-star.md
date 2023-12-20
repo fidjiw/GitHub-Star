@@ -145,3 +145,4 @@
 | [amber](https://github.com/EgeBalci/amber) | Reflective PE packer. | 1k⭐ | 2023-12-18T12:34:09.000Z |
 | [gptcommit](https://github.com/zurawiki/gptcommit) | A git prepare-commit-msg hook for authoring commit messages with GPT-3. | 2.2k⭐ | 2023-12-19T03:19:01.000Z |
 | [doop-mirror](https://github.com/plast-lab/doop-mirror) | Mirror of Doop: https://bitbucket.org/yanniss/doop | 122⭐ | 2023-12-19T07:38:04.000Z |
+| [Blackbone](https://github.com/DarthTon/Blackbone) | Windows memory hacking library | 4.4k⭐ | 2023-12-20T02:29:24.000Z |
