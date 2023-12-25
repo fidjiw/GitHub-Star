@@ -157,3 +157,4 @@
 | [jQuery-hook](https://github.com/JSREI/jQuery-hook) | 用于快速定位使用jQuery绑定到DOM元素上的事件的代码的真实位置，辅助逆向分析。 | 25⭐ | 2023-12-25T01:54:21.000Z |
 | [TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) | CPP AV/EDR Killer | 162⭐ | 2023-12-25T01:53:14.000Z |
 | [msFuzz](https://github.com/0dayResearchLab/msFuzz) | Targeting Windows Kernel Driver Fuzzer | 68⭐ | 2023-12-25T01:52:42.000Z |
+| [yongyouScan.go](https://github.com/qi4L/yongyouScan.go) | 用友漏洞批量检测 | 22⭐ | 2023-12-25T01:55:48.000Z |
