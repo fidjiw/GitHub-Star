@@ -155,3 +155,4 @@
 | [revel](https://github.com/revel/revel) | A high productivity, full-stack web framework for the Go language. | 13k⭐ | 2023-12-24T10:08:49.000Z |
 | [chatgpt-google-summary-extension](https://github.com/sparticleinc/chatgpt-google-summary-extension) | Chrome extension to view ChatGPT summaries alongside Google search results and YouTube videos, also supports Yahoo! ニュース、PubMed、PMC、NewsPicks、Github、Nikkei、 Bing、Google Patents, and any page summary. | 1.3k⭐ | 2023-12-24T12:01:14.000Z |
 | [jQuery-hook](https://github.com/JSREI/jQuery-hook) | 用于快速定位使用jQuery绑定到DOM元素上的事件的代码的真实位置，辅助逆向分析。 | 25⭐ | 2023-12-25T01:54:21.000Z |
+| [TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) | CPP AV/EDR Killer | 162⭐ | 2023-12-25T01:53:14.000Z |
