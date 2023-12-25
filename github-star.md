@@ -158,3 +158,4 @@
 | [TrueSightKiller](https://github.com/MaorSabag/TrueSightKiller) | CPP AV/EDR Killer | 162⭐ | 2023-12-25T01:53:14.000Z |
 | [msFuzz](https://github.com/0dayResearchLab/msFuzz) | Targeting Windows Kernel Driver Fuzzer | 68⭐ | 2023-12-25T01:52:42.000Z |
 | [yongyouScan.go](https://github.com/qi4L/yongyouScan.go) | 用友漏洞批量检测 | 22⭐ | 2023-12-25T01:55:48.000Z |
+| [cook](https://github.com/glitchedgitz/cook) | A wordlist framework to fullfill your kinks with your wordlists. For security researchers, bug bounty and hackers. | 769⭐ | 2023-12-25T01:55:12.000Z |
