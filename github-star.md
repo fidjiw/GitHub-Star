@@ -165,3 +165,4 @@
 | [ebpf_shell](https://github.com/veo/ebpf_shell) | ebpf WebShell/内核马，一种新型内核马/WebShell技术 | 47⭐ | 2023-12-26T02:38:27.000Z |
 | [RCEFuzzer](https://github.com/TheKingOfDuck/RCEFuzzer) | 一个以fuzz为中心思想的被动扫描工具 | 31⭐ | 2023-12-26T02:41:37.000Z |
 | [poc-proxycommand-vulnerable](https://github.com/vin01/poc-proxycommand-vulnerable) | Proof of conept to exploit vulnerable proxycommand configurations on ssh clients | 24⭐ | 2023-12-26T02:40:40.000Z |
+| [jsluice](https://github.com/BishopFox/jsluice) | Extract URLs, paths, secrets, and other interesting bits from JavaScript | 995⭐ | 2023-12-26T02:46:16.000Z |
