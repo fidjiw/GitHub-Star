@@ -162,3 +162,4 @@
 | [indiehackers-steps](https://github.com/hua1995116/indiehackers-steps) | 独立开发者出海 | 167⭐ | 2023-12-25T03:27:00.000Z |
 | [Slack](https://github.com/qiwentaidi/Slack) | 一款Go Wails实现的GUI扫描器，功能涵盖网站扫描、端口扫描、企业信息收集、子域名暴破、空间引擎搜索、CDN识别等多功能的工具 | 103⭐ | 2023-12-26T02:39:48.000Z |
 | [ThreatHunting-Keywords](https://github.com/mthcht/ThreatHunting-Keywords) | Awesome list of keywords for Threat Hunting sessions | 229⭐ | 2023-12-26T02:39:14.000Z |
+| [ebpf_shell](https://github.com/veo/ebpf_shell) | ebpf WebShell/内核马，一种新型内核马/WebShell技术 | 47⭐ | 2023-12-26T02:38:27.000Z |
