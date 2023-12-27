@@ -167,3 +167,4 @@
 | [poc-proxycommand-vulnerable](https://github.com/vin01/poc-proxycommand-vulnerable) | Proof of conept to exploit vulnerable proxycommand configurations on ssh clients | 24⭐ | 2023-12-26T02:40:40.000Z |
 | [jsluice](https://github.com/BishopFox/jsluice) | Extract URLs, paths, secrets, and other interesting bits from JavaScript | 995⭐ | 2023-12-26T02:46:16.000Z |
 | [nginx_shell](https://github.com/veo/nginx_shell) | nginx WebShell/内存马，更优雅的nignx backdoor | 49⭐ | 2023-12-27T02:34:09.000Z |
+| [EDRSilencer](https://github.com/netero1010/EDRSilencer) | A tool uses Windows Filtering Platform (WFP) to block Endpoint Detection and Response (EDR) agents from reporting security events to the server. | 28⭐ | 2023-12-27T02:33:35.000Z |
