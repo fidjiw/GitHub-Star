@@ -171,3 +171,4 @@
 | [PowerSharpPack](https://github.com/S3cur3Th1sSh1t/PowerSharpPack) | 该项目没有About | 1.3k⭐ | 2023-12-27T02:35:41.000Z |
 | [OctoMation](https://github.com/flagify-com/OctoMation) | OctoMation是一款免费的，具有可视化拖拽功能的编排与自动化产品。通过精心编排的Playbook，OctoMation能够联动数百款安全、网络、IT和SaaS等产品的基础能力。其主要特点包括低代码剧本编排、自动化事件响应、标准化流程操作以及可视化过程监控。 借助OctoMation，运营团队能够开展7x24小时自动化事件响应，不仅可以大幅减少对人员的过度依赖，还能确保团队工作质量始终维持在较高的水准上，最终实现“极速降本增效”。 | 355⭐ | 2023-12-28T02:54:57.000Z |
 | [aliyun-ddns](https://github.com/sanjusss/aliyun-ddns) | 阿里云动态域名工具，支持docker和ipv6。 | 410⭐ | 2023-12-28T02:53:25.000Z |
+| [notion-zh_CN](https://github.com/Reamd7/notion-zh_CN) | notion 中文化 | 6.6k⭐ | 2023-12-28T10:36:51.000Z |
