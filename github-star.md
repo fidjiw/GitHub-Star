@@ -175,3 +175,4 @@
 | [blutter](https://github.com/worawit/blutter) | Flutter Mobile Application Reverse Engineering Tool | 369⭐ | 2023-12-29T03:15:11.000Z |
 | [Emergency-response-tools](https://github.com/yuag/Emergency-response-tools) | 应急响应检测工具 | 66⭐ | 2023-12-29T03:14:17.000Z |
 | [container-escape-check](https://github.com/teamssix/container-escape-check) | docker container escape check  Docker 容器逃逸检测 | 439⭐ | 2023-12-29T03:13:41.000Z |
+| [av_detect](https://github.com/nand0san/av_detect) | This program detects if any security software (AV, EDR, XDR, firewall, etc.) is running on the system. The program searches the list of running processes and compares their names with a predefined list of known security software processes. | 23⭐ | 2023-12-29T03:15:48.000Z |
