@@ -181,3 +181,4 @@
 | [xia_Yue](https://github.com/smxiazi/xia_Yue) | burp 插件 xia_Yue（瞎越） 主要用于测试越权、未授权 | 277⭐ | 2024-01-02T02:20:43.000Z |
 | [Artillery](https://github.com/ASkyeye/Artillery) | CIA UAC bypass implementation that utilizes elevated COM object to write to System32 and an auto-elevated process to execute as administrator. | 7⭐ | 2024-01-02T02:19:55.000Z |
 | [Bypass-Windows-Defender-with-CPP-.DLL-Payload-File---Meterpreter-Reverse-Shell](https://github.com/gemini-security/Bypass-Windows-Defender-with-CPP-.DLL-Payload-File---Meterpreter-Reverse-Shell) | Bypass Windows Defender with C++ .DLL Payload File - Meterpreter Reverse Shell | 15⭐ | 2024-01-02T02:22:45.000Z |
+| [x1Ldr](https://github.com/yutianqaq/x1Ldr) | XOR 加密 分离免杀 | 38⭐ | 2024-01-02T02:22:02.000Z |
