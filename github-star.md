@@ -178,3 +178,4 @@
 | [av_detect](https://github.com/nand0san/av_detect) | This program detects if any security software (AV, EDR, XDR, firewall, etc.) is running on the system. The program searches the list of running processes and compares their names with a predefined list of known security software processes. | 23⭐ | 2023-12-29T03:15:48.000Z |
 | [webscan](https://github.com/DeLo7/webscan) | 针对sql注入，XSS,JS漏洞的扫描器 | 6⭐ | 2023-12-29T03:22:57.000Z |
 | [WechatExporter](https://github.com/BlueMatthew/WechatExporter) | Wechat Chat History Exporter 微信聊天记录导出备份程序 | 5k⭐ | 2023-12-30T01:27:00.000Z |
+| [xia_Yue](https://github.com/smxiazi/xia_Yue) | burp 插件 xia_Yue（瞎越） 主要用于测试越权、未授权 | 277⭐ | 2024-01-02T02:20:43.000Z |
