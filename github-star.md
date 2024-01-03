@@ -186,3 +186,4 @@
 | [PingRAT](https://github.com/umutcamliyurt/PingRAT) | PingRAT secretly passes C2 traffic through firewalls using ICMP payloads. | 49⭐ | 2024-01-03T02:35:53.000Z |
 | [subdomain_shell](https://github.com/Mr-xn/subdomain_shell) | 一键调用subfinder+ksubdomain+httpx 强强联合 从域名发现-->域名验证-->获取域名标题、状态码以及响应大小 最后保存结果,简化重复操作命令 | 312⭐ | 2024-01-03T02:39:11.000Z |
 | [new_in_swor](https://github.com/snnxyss/new_in_swor) | bypassAll静态引擎，如绕过QVM，绕过VT所有静态引擎 | 43⭐ | 2024-01-03T02:37:42.000Z |
+| [SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege) | Use SE_BACKUP_NAME/SeBackupPrivilege to access objects you shouldn't have access to | 197⭐ | 2024-01-03T02:37:00.000Z |
