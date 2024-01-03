@@ -183,3 +183,4 @@
 | [Bypass-Windows-Defender-with-CPP-.DLL-Payload-File---Meterpreter-Reverse-Shell](https://github.com/gemini-security/Bypass-Windows-Defender-with-CPP-.DLL-Payload-File---Meterpreter-Reverse-Shell) | Bypass Windows Defender with C++ .DLL Payload File - Meterpreter Reverse Shell | 15⭐ | 2024-01-02T02:22:45.000Z |
 | [x1Ldr](https://github.com/yutianqaq/x1Ldr) | XOR 加密 分离免杀 | 38⭐ | 2024-01-02T02:22:02.000Z |
 | [BypassAV-Online](https://github.com/yutianqaq/BypassAV-Online) | 一个基于 Spring Boot 的在线免杀生成平台 | 35⭐ | 2024-01-02T02:21:18.000Z |
+| [PingRAT](https://github.com/umutcamliyurt/PingRAT) | PingRAT secretly passes C2 traffic through firewalls using ICMP payloads. | 49⭐ | 2024-01-03T02:35:53.000Z |
