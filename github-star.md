@@ -190,3 +190,4 @@
 | [Stinger](https://github.com/hackerhouse-opensource/Stinger) | CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator. | 43⭐ | 2024-01-03T02:36:34.000Z |
 | [elasticsplunk](https://github.com/brunotm/elasticsplunk) | A Search command to explore Elasticsearch data within Splunk. | 39⭐ | 2024-01-03T02:53:35.000Z |
 | [dumpclass](https://github.com/hengyunabc/dumpclass) | Dump classes from running JVM process. | 351⭐ | 2024-01-05T01:45:35.000Z |
+| [JWTPyCrack](https://github.com/Ch1ngg/JWTPyCrack) | JWT 弱口令 Key 爆破以及生成 NONE 加密的无 Key 的 JWTString | 201⭐ | 2024-01-05T01:45:05.000Z |
