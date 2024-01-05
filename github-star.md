@@ -189,3 +189,4 @@
 | [SeBackupPrivilege](https://github.com/giuliano108/SeBackupPrivilege) | Use SE_BACKUP_NAME/SeBackupPrivilege to access objects you shouldn't have access to | 197⭐ | 2024-01-03T02:37:00.000Z |
 | [Stinger](https://github.com/hackerhouse-opensource/Stinger) | CIA UAC bypass implementation of Stinger that obtains the token from an auto-elevated process, modifies it, and reuses it to execute as Administrator. | 43⭐ | 2024-01-03T02:36:34.000Z |
 | [elasticsplunk](https://github.com/brunotm/elasticsplunk) | A Search command to explore Elasticsearch data within Splunk. | 39⭐ | 2024-01-03T02:53:35.000Z |
+| [dumpclass](https://github.com/hengyunabc/dumpclass) | Dump classes from running JVM process. | 351⭐ | 2024-01-05T01:45:35.000Z |
