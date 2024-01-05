@@ -191,3 +191,4 @@
 | [elasticsplunk](https://github.com/brunotm/elasticsplunk) | A Search command to explore Elasticsearch data within Splunk. | 39⭐ | 2024-01-03T02:53:35.000Z |
 | [dumpclass](https://github.com/hengyunabc/dumpclass) | Dump classes from running JVM process. | 351⭐ | 2024-01-05T01:45:35.000Z |
 | [JWTPyCrack](https://github.com/Ch1ngg/JWTPyCrack) | JWT 弱口令 Key 爆破以及生成 NONE 加密的无 Key 的 JWTString | 201⭐ | 2024-01-05T01:45:05.000Z |
+| [icmpdoor](https://github.com/krabelize/icmpdoor) | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | 269⭐ | 2024-01-05T01:44:33.000Z |
