@@ -192,3 +192,4 @@
 | [dumpclass](https://github.com/hengyunabc/dumpclass) | Dump classes from running JVM process. | 351⭐ | 2024-01-05T01:45:35.000Z |
 | [JWTPyCrack](https://github.com/Ch1ngg/JWTPyCrack) | JWT 弱口令 Key 爆破以及生成 NONE 加密的无 Key 的 JWTString | 201⭐ | 2024-01-05T01:45:05.000Z |
 | [icmpdoor](https://github.com/krabelize/icmpdoor) | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | 269⭐ | 2024-01-05T01:44:33.000Z |
+| [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. | 8k⭐ | 2024-01-07T08:28:41.000Z |
