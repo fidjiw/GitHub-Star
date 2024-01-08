@@ -195,3 +195,4 @@
 | [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. | 8k⭐ | 2024-01-07T08:28:41.000Z |
 | [CaveCarver](https://github.com/XaFF-XaFF/CaveCarver) | CaveCarver - PE backdooring tool which utilizes and automates code cave technique | 171⭐ | 2024-01-08T02:47:22.000Z |
 | [nim-shell](https://github.com/emrekybs/nim-shell) | Reverse shell that can bypass windows defender detection | 61⭐ | 2024-01-08T02:46:49.000Z |
+| [AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | 94⭐ | 2024-01-08T02:46:05.000Z |
