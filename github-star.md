@@ -194,3 +194,4 @@
 | [icmpdoor](https://github.com/krabelize/icmpdoor) | ICMP Reverse Shell written in Python 3 and with Scapy (backdoor/rev shell) | 269⭐ | 2024-01-05T01:44:33.000Z |
 | [Qwen](https://github.com/QwenLM/Qwen) | The official repo of Qwen (通义千问) chat & pretrained large language model proposed by Alibaba Cloud. | 8k⭐ | 2024-01-07T08:28:41.000Z |
 | [CaveCarver](https://github.com/XaFF-XaFF/CaveCarver) | CaveCarver - PE backdooring tool which utilizes and automates code cave technique | 171⭐ | 2024-01-08T02:47:22.000Z |
+| [nim-shell](https://github.com/emrekybs/nim-shell) | Reverse shell that can bypass windows defender detection | 61⭐ | 2024-01-08T02:46:49.000Z |
