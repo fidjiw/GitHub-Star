@@ -198,3 +198,4 @@
 | [AD-AssessmentKit](https://github.com/emrekybs/AD-AssessmentKit) | Contains a collection of Bash scripts designed for comprehensive security audits and network mapping of Active Directory (AD) environments. The scripts automate various tasks including LDAP querying, Kerberos ticket analysis, SMB enumeration, and exploitation of known vulnerabilities like Zerologon and PetitPotam. | 94⭐ | 2024-01-08T02:46:05.000Z |
 | [Telemetry](https://github.com/360-Linton-Lab/Telemetry) | WINDOWS TELEMETRY权限维持 | 252⭐ | 2024-01-09T02:44:00.000Z |
 | [EfsPotato](https://github.com/zcgonvh/EfsPotato) | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). | 644⭐ | 2024-01-09T02:42:50.000Z |
+| [obfuscator](https://github.com/es3n1n/obfuscator) | PE bin2bin obfuscator | 328⭐ | 2024-01-09T02:42:07.000Z |
