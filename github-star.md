@@ -199,3 +199,4 @@
 | [Telemetry](https://github.com/360-Linton-Lab/Telemetry) | WINDOWS TELEMETRY权限维持 | 252⭐ | 2024-01-09T02:44:00.000Z |
 | [EfsPotato](https://github.com/zcgonvh/EfsPotato) | Exploit for EfsPotato(MS-EFSR EfsRpcOpenFileRaw with SeImpersonatePrivilege local privalege escalation vulnerability). | 644⭐ | 2024-01-09T02:42:50.000Z |
 | [obfuscator](https://github.com/es3n1n/obfuscator) | PE bin2bin obfuscator | 328⭐ | 2024-01-09T02:42:07.000Z |
+| [WebAliveScan](https://github.com/broken5/WebAliveScan) | 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描 | 876⭐ | 2024-01-10T02:45:16.000Z |
