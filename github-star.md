@@ -201,3 +201,4 @@
 | [obfuscator](https://github.com/es3n1n/obfuscator) | PE bin2bin obfuscator | 328⭐ | 2024-01-09T02:42:07.000Z |
 | [WebAliveScan](https://github.com/broken5/WebAliveScan) | 对目标域名进行快速的存活扫描、简单的指纹识别、目录扫描 | 876⭐ | 2024-01-10T02:45:16.000Z |
 | [Kernel-dll-injector](https://github.com/alexvogt91/Kernel-dll-injector) | Kernel-Mode Driver that loads a dll into every new created process that loads kernel32.dll module | 334⭐ | 2024-01-10T02:44:42.000Z |
+| [JsonExp](https://github.com/smallfox233/JsonExp) | fastjson漏洞批量检测工具 | 199⭐ | 2024-01-10T02:44:07.000Z |
