@@ -205,3 +205,4 @@
 | [url_alive_scan](https://github.com/komomon/url_alive_scan) | A multi coroutine concurrent batch URL survival detection tool written in Go, with concurrency determined by CPU by default.一个go编写的多协程并发批量url存活检测工具，并发数默认根据cpu决定。 | 3⭐ | 2024-01-10T02:43:23.000Z |
 | [Moriarty](https://github.com/BC-SECURITY/Moriarty) | 该项目没有About | 134⭐ | 2024-01-10T02:46:56.000Z |
 | [XG_NTAI](https://github.com/xiaogang000/XG_NTAI) | 用于Webshell木马免杀、流量加密传输 | 410⭐ | 2024-01-10T02:53:23.000Z |
+| [icpscan](https://github.com/honmashironeko/icpscan) | 用于快速查询IP、域名资产备案信息的工具。欢迎关注微信公众号加群反馈~ | 32⭐ | 2024-01-11T02:55:03.000Z |
