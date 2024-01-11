@@ -208,3 +208,4 @@
 | [icpscan](https://github.com/honmashironeko/icpscan) | 用于快速查询IP、域名资产备案信息的工具。欢迎关注微信公众号加群反馈~ | 32⭐ | 2024-01-11T02:55:03.000Z |
 | [Split_tools](https://github.com/corunb/Split_tools) | 分割小工具，可分割木马，一键生成写入、合并、追加命令 | 34⭐ | 2024-01-11T02:53:51.000Z |
 | [no-templates](https://github.com/Y4Sec-Team/no-templates) | 如果反序列化过程中使用resolveClass拉黑了TemplatesImpl如何绕过 | 24⭐ | 2024-01-11T02:56:38.000Z |
+| [Handly](https://github.com/blackarrowsec/Handly) | Abuse leaked token handles. | 107⭐ | 2024-01-11T02:55:48.000Z |
