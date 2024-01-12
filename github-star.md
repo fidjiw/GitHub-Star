@@ -212,3 +212,4 @@
 | [BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA) | From an account member of the group Backup Operators to Domain Admin without RDP or WinRM on the Domain Controller | 355⭐ | 2024-01-12T02:00:10.000Z |
 | [Evasive-Loader](https://github.com/Ethicalrat/Evasive-Loader) | Evasive loader to bypass static detection | 8⭐ | 2024-01-12T01:59:36.000Z |
 | [BypassFuzzer](https://github.com/intrudir/BypassFuzzer) | Fuzz 401/403/404 pages for bypasses | 119⭐ | 2024-01-12T02:01:46.000Z |
+| [TscanPlus](https://github.com/TideSec/TscanPlus) | 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 | 418⭐ | 2024-01-12T02:01:04.000Z |
