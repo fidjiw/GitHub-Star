@@ -211,3 +211,4 @@
 | [Handly](https://github.com/blackarrowsec/Handly) | Abuse leaked token handles. | 107⭐ | 2024-01-11T02:55:48.000Z |
 | [BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA) | From an account member of the group Backup Operators to Domain Admin without RDP or WinRM on the Domain Controller | 355⭐ | 2024-01-12T02:00:10.000Z |
 | [Evasive-Loader](https://github.com/Ethicalrat/Evasive-Loader) | Evasive loader to bypass static detection | 8⭐ | 2024-01-12T01:59:36.000Z |
+| [BypassFuzzer](https://github.com/intrudir/BypassFuzzer) | Fuzz 401/403/404 pages for bypasses | 119⭐ | 2024-01-12T02:01:46.000Z |
