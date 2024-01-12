@@ -209,3 +209,4 @@
 | [Split_tools](https://github.com/corunb/Split_tools) | 分割小工具，可分割木马，一键生成写入、合并、追加命令 | 34⭐ | 2024-01-11T02:53:51.000Z |
 | [no-templates](https://github.com/Y4Sec-Team/no-templates) | 如果反序列化过程中使用resolveClass拉黑了TemplatesImpl如何绕过 | 24⭐ | 2024-01-11T02:56:38.000Z |
 | [Handly](https://github.com/blackarrowsec/Handly) | Abuse leaked token handles. | 107⭐ | 2024-01-11T02:55:48.000Z |
+| [BackupOperatorToDA](https://github.com/mpgn/BackupOperatorToDA) | From an account member of the group Backup Operators to Domain Admin without RDP or WinRM on the Domain Controller | 355⭐ | 2024-01-12T02:00:10.000Z |
