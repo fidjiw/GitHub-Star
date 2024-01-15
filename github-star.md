@@ -214,3 +214,4 @@
 | [BypassFuzzer](https://github.com/intrudir/BypassFuzzer) | Fuzz 401/403/404 pages for bypasses | 119⭐ | 2024-01-12T02:01:46.000Z |
 | [TscanPlus](https://github.com/TideSec/TscanPlus) | 一款综合性网络安全检测和运维工具，旨在快速资产发现、识别、检测，构建基础资产信息库，协助甲方安全团队或者安全运维人员有效侦察和检索资产，发现存在的薄弱点和攻击面。 | 418⭐ | 2024-01-12T02:01:04.000Z |
 | [swarm](https://github.com/swarmsecurity/swarm) | Formerly known as axiom, swarm is the next generation of distributed cloud scanning and attack surface monitoring. | 41⭐ | 2024-01-12T10:40:25.000Z |
+| [fofa-search](https://github.com/wgpsec/fofa-search) | 这是一个基于vue3+ant开发的Chrome浏览器插件，Chrome V3版本 | 12⭐ | 2024-01-15T01:53:59.000Z |
