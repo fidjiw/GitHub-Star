@@ -218,3 +218,4 @@
 | [PackGenome-Artifacts](https://github.com/packgenome/PackGenome-Artifacts) | PackGenome: Automatically Generating Robust YARA Rules for Accurate Malware Packer Detection | 13⭐ | 2024-01-15T01:53:25.000Z |
 | [backtrace](https://github.com/zhanghanyun/backtrace) | 三网回程路由测试 | 692⭐ | 2024-01-15T01:52:47.000Z |
 | [InternalAllTheThings](https://github.com/hktalent/InternalAllTheThings) | 该项目没有About | 2⭐ | 2024-01-15T01:51:14.000Z |
+| [FlowMate](https://github.com/usdAG/FlowMate) | FlowMate, a BurpSuite extension that brings taint analysis to web applications, by tracking all parameters send to a target application and matches their occurrences in the responses. | 22⭐ | 2024-01-15T01:50:45.000Z |
