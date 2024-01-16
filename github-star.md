@@ -222,3 +222,4 @@
 | [AVKiller](https://github.com/1y0n/AVKiller) | 一种通过进程注入实现强制关闭部分杀软进程的方法（以360安全卫士和360杀毒为例） | 41⭐ | 2024-01-15T01:57:48.000Z |
 | [hakrawler](https://github.com/hakluke/hakrawler) | Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application | 4.1k⭐ | 2024-01-16T03:03:13.000Z |
 | [BypassAV](https://github.com/hack2fun/BypassAV) | Cobalt Strike插件，用于快速生成免杀的可执行文件 | 845⭐ | 2024-01-16T03:06:11.000Z |
+| [Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools) | 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助 | 319⭐ | 2024-01-16T03:12:58.000Z |
