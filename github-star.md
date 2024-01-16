@@ -221,3 +221,4 @@
 | [FlowMate](https://github.com/usdAG/FlowMate) | FlowMate, a BurpSuite extension that brings taint analysis to web applications, by tracking all parameters send to a target application and matches their occurrences in the responses. | 22⭐ | 2024-01-15T01:50:45.000Z |
 | [AVKiller](https://github.com/1y0n/AVKiller) | 一种通过进程注入实现强制关闭部分杀软进程的方法（以360安全卫士和360杀毒为例） | 41⭐ | 2024-01-15T01:57:48.000Z |
 | [hakrawler](https://github.com/hakluke/hakrawler) | Simple, fast web crawler designed for easy, quick discovery of endpoints and assets within a web application | 4.1k⭐ | 2024-01-16T03:03:13.000Z |
+| [BypassAV](https://github.com/hack2fun/BypassAV) | Cobalt Strike插件，用于快速生成免杀的可执行文件 | 845⭐ | 2024-01-16T03:06:11.000Z |
