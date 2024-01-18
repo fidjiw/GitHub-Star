@@ -224,3 +224,4 @@
 | [BypassAV](https://github.com/hack2fun/BypassAV) | Cobalt Strike插件，用于快速生成免杀的可执行文件 | 845⭐ | 2024-01-16T03:06:11.000Z |
 | [Awesome-hacking-tools](https://github.com/awake1t/Awesome-hacking-tools) | 收集网上好用、实用的红蓝对抗武器。从资产扫描、泄漏扫描、信息收集、漏洞扫描、SRC批量挖掘、内网渗透、应急响应等等工具。 大部分我都用过、部分会写上自己的感想与建议，希望对你有帮助 | 319⭐ | 2024-01-16T03:12:58.000Z |
 | [EHole-modify](https://github.com/A10nggg/EHole-modify) | EHole(棱洞)二开新增hunter接口、指纹、集成fscan的poc扫描功能 | 58⭐ | 2024-01-18T02:25:10.000Z |
+| [RemoteWebScreen](https://github.com/p1d3er/RemoteWebScreen) | 本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。主要功能包括屏幕共享、鼠标和键盘控制以及键盘记录。 | 56⭐ | 2024-01-18T02:24:35.000Z |
