@@ -226,3 +226,4 @@
 | [EHole-modify](https://github.com/A10nggg/EHole-modify) | EHole(棱洞)二开新增hunter接口、指纹、集成fscan的poc扫描功能 | 58⭐ | 2024-01-18T02:25:10.000Z |
 | [RemoteWebScreen](https://github.com/p1d3er/RemoteWebScreen) | 本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。主要功能包括屏幕共享、鼠标和键盘控制以及键盘记录。 | 56⭐ | 2024-01-18T02:24:35.000Z |
 | [Masscan2Httpx2Nuclei-Xray](https://github.com/mbskter/Masscan2Httpx2Nuclei-Xray) | masscan全端口扫描==>httpx探测WEB服务==>nuclei&xray漏洞扫描 | 53⭐ | 2024-01-18T02:26:24.000Z |
+| [Kernelmode-DLL-Injector](https://github.com/YouNeverKnow00/Kernelmode-DLL-Injector) | Simple Kernelmode DLL Injector with Manual mapping | 131⭐ | 2024-01-18T02:25:51.000Z |
