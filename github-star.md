@@ -229,3 +229,4 @@
 | [Kernelmode-DLL-Injector](https://github.com/YouNeverKnow00/Kernelmode-DLL-Injector) | Simple Kernelmode DLL Injector with Manual mapping | 131⭐ | 2024-01-18T02:25:51.000Z |
 | [Evil-M5Core2](https://github.com/7h30th3r0n3/Evil-M5Core2) | Evil-M5Core2 is an easy Evil portal and rogue app deployement software designed to work on M5Stack Core2. | 73⭐ | 2024-01-19T02:39:54.000Z |
 | [llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) | LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time. | 116⭐ | 2024-01-19T02:39:10.000Z |
+| [suricata-rules](https://github.com/al0ne/suricata-rules) | Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等 | 1k⭐ | 2024-01-19T02:38:32.000Z |
