@@ -227,3 +227,4 @@
 | [RemoteWebScreen](https://github.com/p1d3er/RemoteWebScreen) | 本项目是一个远程控制应用，使用 Golang 开发，允许用户通过 Web 界面远程控制和屏幕监控其他计算机。主要功能包括屏幕共享、鼠标和键盘控制以及键盘记录。 | 56⭐ | 2024-01-18T02:24:35.000Z |
 | [Masscan2Httpx2Nuclei-Xray](https://github.com/mbskter/Masscan2Httpx2Nuclei-Xray) | masscan全端口扫描==>httpx探测WEB服务==>nuclei&xray漏洞扫描 | 53⭐ | 2024-01-18T02:26:24.000Z |
 | [Kernelmode-DLL-Injector](https://github.com/YouNeverKnow00/Kernelmode-DLL-Injector) | Simple Kernelmode DLL Injector with Manual mapping | 131⭐ | 2024-01-18T02:25:51.000Z |
+| [Evil-M5Core2](https://github.com/7h30th3r0n3/Evil-M5Core2) | Evil-M5Core2 is an easy Evil portal and rogue app deployement software designed to work on M5Stack Core2. | 73⭐ | 2024-01-19T02:39:54.000Z |
