@@ -231,3 +231,4 @@
 | [llvm-yx-callobfuscator](https://github.com/janoglezcampos/llvm-yx-callobfuscator) | LLVM plugin to transparently apply stack spoofing and indirect syscalls to Windows x64 native calls at compile time. | 116⭐ | 2024-01-19T02:39:10.000Z |
 | [suricata-rules](https://github.com/al0ne/suricata-rules) | Suricata IDS rules 用来检测红队渗透/恶意行为等，支持检测CobaltStrike/MSF/Empire/DNS隧道/Weevely/菜刀/冰蝎/挖矿/反弹shell/ICMP隧道等 | 1k⭐ | 2024-01-19T02:38:32.000Z |
 | [SharpBypassUAC](https://github.com/FatRodzianko/SharpBypassUAC) | C# tool for UAC bypasses | 365⭐ | 2024-01-19T02:37:09.000Z |
+| [HVVault](https://github.com/iamHuFei/HVVault) | 梳理【护网高利用率POC】并集成Nuclei模板仓库，针对解决网上同一资产漏洞一键检测工具参次不齐问题。 | 375⭐ | 2024-01-19T02:40:44.000Z |
