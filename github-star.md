@@ -236,3 +236,4 @@
 | [scanme](https://github.com/CyberRoute/scanme) | A Golang package for scanning private and public IPs for open TCP SYN (Stealth) ports 👁️ | 19⭐ | 2024-01-19T12:09:42.000Z |
 | [SurveyKing](https://github.com/javahuang/SurveyKing) | Make a better survey system. | 2.6k⭐ | 2024-01-20T10:45:23.000Z |
 | [FindAll](https://github.com/FindAllTeam/FindAll) | 一款自动化分析网络安全应急响应工具 | 52⭐ | 2024-01-22T01:34:50.000Z |
+| [Loader-Source](https://github.com/stdfax/Loader-Source) | Loader base source using keyauth made by me with basic protection, u can use it as a base for your spoofer/cheat loader | 7⭐ | 2024-01-22T02:17:51.000Z |
