@@ -239,3 +239,4 @@
 | [Loader-Source](https://github.com/stdfax/Loader-Source) | Loader base source using keyauth made by me with basic protection, u can use it as a base for your spoofer/cheat loader | 7⭐ | 2024-01-22T02:17:51.000Z |
 | [memShell](https://github.com/feihong-cs/memShell) | FilterBased/ServletBased in memory shell for Tomcat and some other middlewares | 332⭐ | 2024-01-22T02:17:24.000Z |
 | [xia_Liao](https://github.com/smxiazi/xia_Liao) | xia Liao（瞎料）burp插件 用于Windows在线进程/杀软识别 与 web渗透注册时，快速生成需要的资料用来填写，资料包含：姓名、手机号、身份证、统一社会信用代码、组织机构代码、银行卡，以及各类web语言的hello world输出和生成弱口令字典等。 | 403⭐ | 2024-01-22T02:17:11.000Z |
+| [ARL-Finger-ADD-Plus](https://github.com/BigYoungs/ARL-Finger-ADD-Plus) | 批量导入ARL 2.6.0及以前版本指纹，支持指纹去重 | 10⭐ | 2024-01-22T02:16:37.000Z |
