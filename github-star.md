@@ -246,3 +246,4 @@
 | [zerologon-Shot](https://github.com/XiaoliChan/zerologon-Shot) | Zerologon exploit with restore DC password automatically | 109⭐ | 2024-01-23T02:48:46.000Z |
 | [GraphStrike](https://github.com/RedSiege/GraphStrike) | Cobalt Strike HTTPS beaconing over Microsoft Graph API | 105⭐ | 2024-01-23T02:48:15.000Z |
 | [drvscan](https://github.com/ekknod/drvscan) | scan system / process integrity | 91⭐ | 2024-01-23T02:51:48.000Z |
+| [jws-cli](https://github.com/jammny/jws-cli) | 全自动化信息收集工具，解放双手。 | 97⭐ | 2024-01-23T08:12:21.000Z |
