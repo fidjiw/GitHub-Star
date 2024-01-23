@@ -242,3 +242,4 @@
 | [ARL-Finger-ADD-Plus](https://github.com/BigYoungs/ARL-Finger-ADD-Plus) | 批量导入ARL 2.6.0及以前版本指纹，支持指纹去重 | 10⭐ | 2024-01-22T02:16:37.000Z |
 | [suidcheck](https://github.com/Jewel591/suidcheck) | Linux SUID 提权检测脚本，自动分析具有 s 权限的可执行文件并给出相应的提权利用方法 | 36⭐ | 2024-01-22T02:22:44.000Z |
 | [jndiExploit-beta](https://github.com/k4i-x3i0/jndiExploit-beta) | 魔改版，实现冰蝎直连内存马，无需修改冰蝎客户端 | 15⭐ | 2024-01-22T02:22:35.000Z |
+| [linikatz](https://github.com/CiscoCXSecurity/linikatz) | linikatz is a tool to attack AD on UNIX | 467⭐ | 2024-01-23T02:49:50.000Z |
