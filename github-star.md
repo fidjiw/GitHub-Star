@@ -250,3 +250,4 @@
 | [cvemap](https://github.com/projectdiscovery/cvemap) | Navigate the CVE jungle with ease. | 18⭐ | 2024-01-23T14:23:12.000Z |
 | [GithubMonitor](https://github.com/Macr0phag3/GithubMonitor) | 根据关键字与 hosts 生成的关键词，利用 github 提供的 api，监控 git 泄漏。 | 314⭐ | 2024-01-24T02:45:24.000Z |
 | [PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP) | 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀 | 112⭐ | 2024-01-24T02:42:38.000Z |
+| [yuze](https://github.com/P001water/yuze) | A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式 | 68⭐ | 2024-01-24T02:42:03.000Z |
