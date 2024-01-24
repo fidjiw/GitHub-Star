@@ -251,3 +251,4 @@
 | [GithubMonitor](https://github.com/Macr0phag3/GithubMonitor) | 根据关键字与 hosts 生成的关键词，利用 github 提供的 api，监控 git 泄漏。 | 314⭐ | 2024-01-24T02:45:24.000Z |
 | [PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP) | 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀 | 112⭐ | 2024-01-24T02:42:38.000Z |
 | [yuze](https://github.com/P001water/yuze) | A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式 | 68⭐ | 2024-01-24T02:42:03.000Z |
+| [MMInject](https://github.com/SDXT/MMInject) | Kernel DLL Injector using NX Bit Swapping and VAD hide for hiding injected DLL | 164⭐ | 2024-01-24T02:41:27.000Z |
