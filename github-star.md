@@ -253,3 +253,4 @@
 | [yuze](https://github.com/P001water/yuze) | A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式 | 68⭐ | 2024-01-24T02:42:03.000Z |
 | [MMInject](https://github.com/SDXT/MMInject) | Kernel DLL Injector using NX Bit Swapping and VAD hide for hiding injected DLL | 164⭐ | 2024-01-24T02:41:27.000Z |
 | [CInject](https://github.com/ccdescipline/CInject) | Windows Kernel inject (no module no thread) | 186⭐ | 2024-01-24T02:40:56.000Z |
+| [nipejs](https://github.com/i5nipe/nipejs) | Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks. | 70⭐ | 2024-01-24T06:40:13.000Z |
