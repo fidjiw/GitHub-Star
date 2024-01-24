@@ -252,3 +252,4 @@
 | [PerlinPuzzle-Webshell-PHP](https://github.com/icewolf-sec/PerlinPuzzle-Webshell-PHP) | 使用分支对抗技术制作的PHP Webshell，截止2024年1月18日，共数十个查杀引擎免杀 | 112⭐ | 2024-01-24T02:42:38.000Z |
 | [yuze](https://github.com/P001water/yuze) | A socksv5 proxy tool Written by CLang. 一款纯C实现的基于socks5协议的轻量内网穿透工具，支持ew的全部数据转发方式 | 68⭐ | 2024-01-24T02:42:03.000Z |
 | [MMInject](https://github.com/SDXT/MMInject) | Kernel DLL Injector using NX Bit Swapping and VAD hide for hiding injected DLL | 164⭐ | 2024-01-24T02:41:27.000Z |
+| [CInject](https://github.com/ccdescipline/CInject) | Windows Kernel inject (no module no thread) | 186⭐ | 2024-01-24T02:40:56.000Z |
