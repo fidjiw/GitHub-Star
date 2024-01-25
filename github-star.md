@@ -255,3 +255,4 @@
 | [CInject](https://github.com/ccdescipline/CInject) | Windows Kernel inject (no module no thread) | 186⭐ | 2024-01-24T02:40:56.000Z |
 | [nipejs](https://github.com/i5nipe/nipejs) | Simplify your life with leak detection in JavaScript. NipeJS streamlines the use of regex, making it effortless to uncover potential leaks. | 70⭐ | 2024-01-24T06:40:13.000Z |
 | [SpringBoot-Scan-GUI](https://github.com/13exp/SpringBoot-Scan-GUI) | 该项目没有About | 450⭐ | 2024-01-25T02:47:54.000Z |
+| [WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 | 913⭐ | 2024-01-25T02:46:39.000Z |
