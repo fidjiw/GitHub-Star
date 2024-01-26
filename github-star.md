@@ -260,3 +260,4 @@
 | [teler-waf](https://github.com/kitabisa/teler-waf) | teler-waf is a Go HTTP middleware that provides teler IDS functionality. | 210⭐ | 2024-01-25T07:15:18.000Z |
 | [jrasp-agent](https://github.com/jvm-rasp/jrasp-agent) | 专注于JVM的运行时防御系统RASP | 218⭐ | 2024-01-26T02:37:48.000Z |
 | [USBCopyer](https://github.com/kenvix/USBCopyer) | 😉 用于在插上U盘后自动按需复制该U盘的文件。”备份&偷U盘文件的神器”（写作USBCopyer，读作USBCopier） | 2.4k⭐ | 2024-01-26T02:37:41.000Z |
+| [Frchannel](https://github.com/yecp181/Frchannel) | 帆软bi反序列化漏洞利用工具 | 16⭐ | 2024-01-26T02:36:20.000Z |
