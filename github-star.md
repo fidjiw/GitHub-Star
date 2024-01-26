@@ -258,3 +258,4 @@
 | [WechatBakTool](https://github.com/SuxueCode/WechatBakTool) | 基于C#的微信PC版聊天记录备份工具，提供图形界面，解密微信数据库并导出聊天记录。 | 913⭐ | 2024-01-25T02:46:39.000Z |
 | [SharpSystemTriggers](https://github.com/cube0x0/SharpSystemTriggers) | Collection of remote authentication triggers in C# | 388⭐ | 2024-01-25T02:51:48.000Z |
 | [teler-waf](https://github.com/kitabisa/teler-waf) | teler-waf is a Go HTTP middleware that provides teler IDS functionality. | 210⭐ | 2024-01-25T07:15:18.000Z |
+| [jrasp-agent](https://github.com/jvm-rasp/jrasp-agent) | 专注于JVM的运行时防御系统RASP | 218⭐ | 2024-01-26T02:37:48.000Z |
