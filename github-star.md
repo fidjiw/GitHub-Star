@@ -264,3 +264,4 @@
 | [ligolo-mp](https://github.com/ttpreport/ligolo-mp) | Multiplayer pivoting solution | 20⭐ | 2024-01-26T10:34:20.000Z |
 | [ConfluenceMemshell](https://github.com/Lotus6/ConfluenceMemshell) | Confluence CVE 2021，2022，2023 利用工具，支持命令执行，哥斯拉，冰蝎 内存马注入 | 27⭐ | 2024-01-27T17:09:13.000Z |
 | [weread-exporter](https://github.com/drunkdream/weread-exporter) | 将微信读书中的书籍导出成epub、pdf、mobi等格式 | 503⭐ | 2024-01-28T12:26:18.000Z |
+| [iBeats](https://github.com/yihong0618/iBeats) | Apple Watch 心率数据采集 - Your Soul, Your Beats! | 256⭐ | 2024-01-28T13:15:14.000Z |
