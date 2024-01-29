@@ -269,3 +269,4 @@
 | [HKEcho_Nacos](https://github.com/HKEcho5213/HKEcho_Nacos) | 该项目没有About | 124⭐ | 2024-01-29T02:07:45.000Z |
 | [CsWhispers](https://github.com/rasta-mouse/CsWhispers) | Source generator to add D/Invoke and indirect syscall methods to a C# project. | 45⭐ | 2024-01-29T02:07:10.000Z |
 | [RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) | RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++ | 213⭐ | 2024-01-29T02:06:30.000Z |
+| [ghtracker](https://github.com/zer0yu/ghtracker) | CLI tool for tracking dependents repositories and sorting result by Stars ⭐ | 19⭐ | 2024-01-29T02:59:20.000Z |
