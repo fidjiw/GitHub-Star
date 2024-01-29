@@ -268,3 +268,4 @@
 | [daydayEXP](https://github.com/bcvgh/daydayEXP) | 支持自定义Poc文件的图形化漏洞利用工具 | 133⭐ | 2024-01-29T02:08:44.000Z |
 | [HKEcho_Nacos](https://github.com/HKEcho5213/HKEcho_Nacos) | 该项目没有About | 124⭐ | 2024-01-29T02:07:45.000Z |
 | [CsWhispers](https://github.com/rasta-mouse/CsWhispers) | Source generator to add D/Invoke and indirect syscall methods to a C# project. | 45⭐ | 2024-01-29T02:07:10.000Z |
+| [RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) | RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++ | 213⭐ | 2024-01-29T02:06:30.000Z |
