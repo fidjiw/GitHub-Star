@@ -271,3 +271,4 @@
 | [RDPCredentialStealer](https://github.com/S12cybersecurity/RDPCredentialStealer) | RDPCredentialStealer it's a malware that steal credentials provided by users in RDP using API Hooking with Detours in C++ | 213⭐ | 2024-01-29T02:06:30.000Z |
 | [ghtracker](https://github.com/zer0yu/ghtracker) | CLI tool for tracking dependents repositories and sorting result by Stars ⭐ | 19⭐ | 2024-01-29T02:59:20.000Z |
 | [evil-winrm](https://github.com/Hackplayers/evil-winrm) | The ultimate WinRM shell for hacking/pentesting | 4k⭐ | 2024-01-30T02:57:19.000Z |
+| [Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT) | Manual mapping without creating any threads, with rw only access | 588⭐ | 2024-01-30T02:56:41.000Z |
