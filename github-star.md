@@ -277,3 +277,4 @@
 | [wxhelper](https://github.com/ttttupup/wxhelper) | Hook WeChat / 微信逆向 | 1.2k⭐ | 2024-01-31T03:07:32.000Z |
 | [masnmapscan-V1.0](https://github.com/hellogoldsnakeman/masnmapscan-V1.0) | 一款用于资产探测的端口扫描工具。整合了masscan和nmap两款扫描器，masscan扫描端口，nmap扫描端口对应服务，二者结合起来实现了又快又好地扫描。 | 712⭐ | 2024-01-31T03:07:04.000Z |
 | [JDBC-Attack](https://github.com/su18/JDBC-Attack) | JDBC Connection URL Attack | 333⭐ | 2024-01-31T03:06:33.000Z |
+| [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | 34.3k⭐ | 2024-01-31T03:06:06.000Z |
