@@ -274,3 +274,4 @@
 | [Kernelmode-manual-mapping-through-IAT](https://github.com/mactec0/Kernelmode-manual-mapping-through-IAT) | Manual mapping without creating any threads, with rw only access | 588⭐ | 2024-01-30T02:56:41.000Z |
 | [Ultimate-RAT-Collection](https://github.com/yuankong666/Ultimate-RAT-Collection) | For educational purposes only, samples of old & new malware builders including screenshots! | 120⭐ | 2024-01-30T02:55:39.000Z |
 | [HrmsTamper](https://github.com/Schira4396/HrmsTamper) | 适用于某EHR&HRM的加解密工具，可直接用于sqlmap | 3⭐ | 2024-01-30T05:26:13.000Z |
+| [wxhelper](https://github.com/ttttupup/wxhelper) | Hook WeChat / 微信逆向 | 1.2k⭐ | 2024-01-31T03:07:32.000Z |
