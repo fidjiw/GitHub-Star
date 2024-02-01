@@ -281,3 +281,4 @@
 | [fingerprintx](https://github.com/praetorian-inc/fingerprintx) | Standalone utility for service discovery on open ports! | 481⭐ | 2024-01-31T03:05:21.000Z |
 | [Villain](https://github.com/t3l3machus/Villain) | Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines). | 3.4k⭐ | 2024-02-01T02:58:33.000Z |
 | [SOAPHound](https://github.com/FalconForceTeam/SOAPHound) | SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol. | 396⭐ | 2024-02-01T02:57:54.000Z |
+| [NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) | An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor | 751⭐ | 2024-02-01T02:56:45.000Z |
