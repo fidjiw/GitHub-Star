@@ -283,3 +283,4 @@
 | [SOAPHound](https://github.com/FalconForceTeam/SOAPHound) | SOAPHound is a custom-developed .NET data collector tool which can be used to enumerate Active Directory environments via the Active Directory Web Services (ADWS) protocol. | 396⭐ | 2024-02-01T02:57:54.000Z |
 | [NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) | An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor | 751⭐ | 2024-02-01T02:56:45.000Z |
 | [JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) | 一款Jenkins的综合漏洞利用工具 | 13⭐ | 2024-02-01T02:56:10.000Z |
+| [notehost](https://github.com/velsa/notehost) | Free Hosting for Notion Sites! | 2⭐ | 2024-02-01T09:38:57.000Z |
