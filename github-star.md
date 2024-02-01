@@ -279,3 +279,4 @@
 | [JDBC-Attack](https://github.com/su18/JDBC-Attack) | JDBC Connection URL Attack | 333⭐ | 2024-01-31T03:06:33.000Z |
 | [shellcheck](https://github.com/koalaman/shellcheck) | ShellCheck, a static analysis tool for shell scripts | 34.3k⭐ | 2024-01-31T03:06:06.000Z |
 | [fingerprintx](https://github.com/praetorian-inc/fingerprintx) | Standalone utility for service discovery on open ports! | 481⭐ | 2024-01-31T03:05:21.000Z |
+| [Villain](https://github.com/t3l3machus/Villain) | Villain is a C2 framework that can handle multiple TCP socket & HoaxShell-based reverse shells, enhance their functionality with additional features (commands, utilities etc) and share them among connected sibling servers (Villain instances running on different machines). | 3.4k⭐ | 2024-02-01T02:58:33.000Z |
