@@ -288,3 +288,4 @@
 | [ADModule](https://github.com/samratashok/ADModule) | Microsoft signed ActiveDirectory PowerShell module | 747⭐ | 2024-02-02T02:04:04.000Z |
 | [GpuDecryptShellcode](https://github.com/eversinc33/GpuDecryptShellcode) | XOR decrypting shellcode using the GPU with OpenCL. | 60⭐ | 2024-02-02T02:03:30.000Z |
 | [ail-framework](https://github.com/ail-project/ail-framework) | AIL framework - Analysis Information Leak framework | 445⭐ | 2024-02-02T02:03:03.000Z |
+| [security](https://github.com/web3password/security) | Web3Password Security | 2⭐ | 2024-02-02T02:47:03.000Z |
