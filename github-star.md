@@ -284,3 +284,4 @@
 | [NETReactorSlayer](https://github.com/SychicBoy/NETReactorSlayer) | An open source (GPLv3) deobfuscator and unpacker for Eziriz .NET Reactor | 751⭐ | 2024-02-01T02:56:45.000Z |
 | [JenkinsExploit-GUI](https://github.com/TheBeastofwar/JenkinsExploit-GUI) | 一款Jenkins的综合漏洞利用工具 | 13⭐ | 2024-02-01T02:56:10.000Z |
 | [notehost](https://github.com/velsa/notehost) | Free Hosting for Notion Sites! | 2⭐ | 2024-02-01T09:38:57.000Z |
+| [PhishingBook](https://github.com/tib36/PhishingBook) | 红蓝对抗：钓鱼演练资源汇总&备忘录 | 727⭐ | 2024-02-02T02:04:24.000Z |
