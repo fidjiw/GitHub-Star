@@ -289,3 +289,4 @@
 | [GpuDecryptShellcode](https://github.com/eversinc33/GpuDecryptShellcode) | XOR decrypting shellcode using the GPU with OpenCL. | 60⭐ | 2024-02-02T02:03:30.000Z |
 | [ail-framework](https://github.com/ail-project/ail-framework) | AIL framework - Analysis Information Leak framework | 445⭐ | 2024-02-02T02:03:03.000Z |
 | [security](https://github.com/web3password/security) | Web3Password Security | 2⭐ | 2024-02-02T02:47:03.000Z |
+| [Be-a-Docker-Escaper](https://github.com/WinMin/Be-a-Docker-Escaper) | The container escape challenge of Be A RWCTFer competition (https://be-a-rwctfer.realworldctf.com/) | 12⭐ | 2024-02-03T09:59:03.000Z |
