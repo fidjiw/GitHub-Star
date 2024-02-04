@@ -293,3 +293,4 @@
 | [go-memdb](https://github.com/hashicorp/go-memdb) | Golang in-memory database built on immutable radix trees | 3k⭐ | 2024-02-03T16:19:29.000Z |
 | [LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) | 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安 | 78⭐ | 2024-02-04T00:50:12.000Z |
 | [SecurityInterviewGuide](https://github.com/FeeiCN/SecurityInterviewGuide) | 网络信息安全从业者面试指南 | 1.2k⭐ | 2024-02-04T01:02:56.000Z |
+| [boreal](https://github.com/vthib/boreal) | YARA rules evaluator in Rust | 33⭐ | 2024-02-04T01:02:18.000Z |
