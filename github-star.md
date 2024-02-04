@@ -291,3 +291,4 @@
 | [security](https://github.com/web3password/security) | Web3Password Security | 2⭐ | 2024-02-02T02:47:03.000Z |
 | [Be-a-Docker-Escaper](https://github.com/WinMin/Be-a-Docker-Escaper) | The container escape challenge of Be A RWCTFer competition (https://be-a-rwctfer.realworldctf.com/) | 12⭐ | 2024-02-03T09:59:03.000Z |
 | [go-memdb](https://github.com/hashicorp/go-memdb) | Golang in-memory database built on immutable radix trees | 3k⭐ | 2024-02-03T16:19:29.000Z |
+| [LearnJavaMemshellFromZero](https://github.com/W01fh4cker/LearnJavaMemshellFromZero) | 【原创】完全零基础从0到1掌握Java内存马，公众号：追梦信安 | 78⭐ | 2024-02-04T00:50:12.000Z |
