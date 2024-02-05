@@ -298,3 +298,4 @@
 | [AVEvasionCraftOnline](https://github.com/yutianqaq/AVEvasionCraftOnline) | AV Evasion Craft Online 在线免杀平台 | 67⭐ | 2024-02-04T01:01:09.000Z |
 | [Awesome-One-Click-Deployment](https://github.com/ConnectAI-E/Awesome-One-Click-Deployment) | 🪄 One-click deployment of many github open source projects to facilitate fast experience 一键部署各种Github开源AI项目 | 994⭐ | 2024-02-04T06:53:41.000Z |
 | [oneterm](https://github.com/veops/oneterm) | Provide secure access and control over all infrastructure | 26⭐ | 2024-02-05T01:18:56.000Z |
+| [SqlmapXPlus](https://github.com/co01cat/SqlmapXPlus) | SqlmapXPlus 基于 Sqlmap，对经典的数据库漏洞利用工具进行二开！ | 98⭐ | 2024-02-05T01:18:00.000Z |
