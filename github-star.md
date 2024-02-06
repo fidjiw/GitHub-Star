@@ -301,3 +301,4 @@
 | [SqlmapXPlus](https://github.com/co01cat/SqlmapXPlus) | SqlmapXPlus 基于 Sqlmap，对经典的数据库漏洞利用工具进行二开！ | 98⭐ | 2024-02-05T01:18:00.000Z |
 | [command-injection-payload-list](https://github.com/payloadbox/command-injection-payload-list) | 🎯 Command Injection Payload List | 2.5k⭐ | 2024-02-05T01:17:12.000Z |
 | [SharpBlock](https://github.com/CCob/SharpBlock) | A method of bypassing EDR's active projection DLL's by preventing entry point exection | 1k⭐ | 2024-02-06T03:09:56.000Z |
+| [drakvuf](https://github.com/tklengyel/drakvuf) | DRAKVUF Black-box Binary Analysis | 975⭐ | 2024-02-06T03:08:39.000Z |
