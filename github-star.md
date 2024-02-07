@@ -308,3 +308,4 @@
 | [MemshellKit](https://github.com/W01fh4cker/MemshellKit) | 针对多个框架的高度自定义的内存马一键打入工具  A highly customized memory shell one-click injection tool for multiple frameworks | 2⭐ | 2024-02-07T00:58:54.000Z |
 | [cscan-go](https://github.com/ifacker/cscan-go) | cscan-go 版本，主要用于C段扫描，信息收集、红队横向渗透等...（相信我，点进来不会后悔的！） | 49⭐ | 2024-02-07T00:58:13.000Z |
 | [RGPScan](https://github.com/rustgopy/RGPScan) | 红队渗透测试、内网资产探测、通用漏洞扫描、弱口令爆破 | 41⭐ | 2024-02-07T00:57:36.000Z |
+| [carapace-bin](https://github.com/rsteube/carapace-bin) | multi-shell multi-command argument completer | 539⭐ | 2024-02-07T00:57:00.000Z |
