@@ -305,3 +305,4 @@
 | [EventLogCrasher](https://github.com/floesen/EventLogCrasher) | 该项目没有About | 138⭐ | 2024-02-06T03:11:28.000Z |
 | [SharpKatz](https://github.com/b4rtik/SharpKatz) | Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands | 904⭐ | 2024-02-06T03:16:29.000Z |
 | [process_ghosting](https://github.com/hasherezade/process_ghosting) | Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file | 585⭐ | 2024-02-07T00:59:49.000Z |
+| [MemshellKit](https://github.com/W01fh4cker/MemshellKit) | 针对多个框架的高度自定义的内存马一键打入工具  A highly customized memory shell one-click injection tool for multiple frameworks | 2⭐ | 2024-02-07T00:58:54.000Z |
