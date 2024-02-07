@@ -304,3 +304,4 @@
 | [drakvuf](https://github.com/tklengyel/drakvuf) | DRAKVUF Black-box Binary Analysis | 975⭐ | 2024-02-06T03:08:39.000Z |
 | [EventLogCrasher](https://github.com/floesen/EventLogCrasher) | 该项目没有About | 138⭐ | 2024-02-06T03:11:28.000Z |
 | [SharpKatz](https://github.com/b4rtik/SharpKatz) | Porting of mimikatz sekurlsa::logonpasswords, sekurlsa::ekeys and lsadump::dcsync commands | 904⭐ | 2024-02-06T03:16:29.000Z |
+| [process_ghosting](https://github.com/hasherezade/process_ghosting) | Process Ghosting - a PE injection technique, similar to Process Doppelgänging, but using a delete-pending file instead of a transacted file | 585⭐ | 2024-02-07T00:59:49.000Z |
