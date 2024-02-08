@@ -311,3 +311,4 @@
 | [carapace-bin](https://github.com/rsteube/carapace-bin) | multi-shell multi-command argument completer | 539⭐ | 2024-02-07T00:57:00.000Z |
 | [eaphammer](https://github.com/s0lst1c3/eaphammer) | Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks. | 1.9k⭐ | 2024-02-08T02:08:47.000Z |
 | [smugglefuzz](https://github.com/Moopinger/smugglefuzz) | A customizable and rapid HTTP downgrade smuggling scanner written in Go. | 86⭐ | 2024-02-08T02:08:12.000Z |
+| [Windows-RPC-Backdoor](https://github.com/morph3/Windows-RPC-Backdoor) | Simple windows rpc server for research purposes only | 64⭐ | 2024-02-08T02:07:11.000Z |
