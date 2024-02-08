@@ -310,3 +310,4 @@
 | [RGPScan](https://github.com/rustgopy/RGPScan) | 红队渗透测试、内网资产探测、通用漏洞扫描、弱口令爆破 | 41⭐ | 2024-02-07T00:57:36.000Z |
 | [carapace-bin](https://github.com/rsteube/carapace-bin) | multi-shell multi-command argument completer | 539⭐ | 2024-02-07T00:57:00.000Z |
 | [eaphammer](https://github.com/s0lst1c3/eaphammer) | Targeted evil twin attacks against WPA2-Enterprise networks. Indirect wireless pivots using hostile portal attacks. | 1.9k⭐ | 2024-02-08T02:08:47.000Z |
+| [smugglefuzz](https://github.com/Moopinger/smugglefuzz) | A customizable and rapid HTTP downgrade smuggling scanner written in Go. | 86⭐ | 2024-02-08T02:08:12.000Z |
