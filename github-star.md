@@ -313,3 +313,4 @@
 | [smugglefuzz](https://github.com/Moopinger/smugglefuzz) | A customizable and rapid HTTP downgrade smuggling scanner written in Go. | 86⭐ | 2024-02-08T02:08:12.000Z |
 | [Windows-RPC-Backdoor](https://github.com/morph3/Windows-RPC-Backdoor) | Simple windows rpc server for research purposes only | 64⭐ | 2024-02-08T02:07:11.000Z |
 | [Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) | This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation. | 845⭐ | 2024-02-09T00:49:22.000Z |
+| [WindowsPrivilegeEscalation](https://github.com/ycdxsb/WindowsPrivilegeEscalation) | Collection of Windows Privilege Escalation (Analyse/PoC/Exp...) | 243⭐ | 2024-02-09T00:48:36.000Z |
