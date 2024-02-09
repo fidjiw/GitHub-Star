@@ -315,3 +315,4 @@
 | [Terrapin-Scanner](https://github.com/RUB-NDS/Terrapin-Scanner) | This repository contains a simple vulnerability scanner for the Terrapin attack present in the paper Terrapin Attack: Breaking SSH Channel Integrity By Sequence Number Manipulation. | 845⭐ | 2024-02-09T00:49:22.000Z |
 | [WindowsPrivilegeEscalation](https://github.com/ycdxsb/WindowsPrivilegeEscalation) | Collection of Windows Privilege Escalation (Analyse/PoC/Exp...) | 243⭐ | 2024-02-09T00:48:36.000Z |
 | [Copier](https://github.com/Tib3rius/Copier) | A Burp extension to help pentesters copy requests / responses for reports. | 14⭐ | 2024-02-09T00:51:58.000Z |
+| [Disable-Windows-Defender-](https://github.com/EvilGreys/Disable-Windows-Defender-) | Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM) | 192⭐ | 2024-02-09T00:51:15.000Z |
