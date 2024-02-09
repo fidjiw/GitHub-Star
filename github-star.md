@@ -316,3 +316,4 @@
 | [WindowsPrivilegeEscalation](https://github.com/ycdxsb/WindowsPrivilegeEscalation) | Collection of Windows Privilege Escalation (Analyse/PoC/Exp...) | 243⭐ | 2024-02-09T00:48:36.000Z |
 | [Copier](https://github.com/Tib3rius/Copier) | A Burp extension to help pentesters copy requests / responses for reports. | 14⭐ | 2024-02-09T00:51:58.000Z |
 | [Disable-Windows-Defender-](https://github.com/EvilGreys/Disable-Windows-Defender-) | Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM) | 192⭐ | 2024-02-09T00:51:15.000Z |
+| [b374k](https://github.com/b374k/b374k) | PHP Webshell with handy features | 2.3k⭐ | 2024-02-09T00:50:12.000Z |
