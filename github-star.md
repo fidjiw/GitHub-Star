@@ -317,3 +317,4 @@
 | [Copier](https://github.com/Tib3rius/Copier) | A Burp extension to help pentesters copy requests / responses for reports. | 14⭐ | 2024-02-09T00:51:58.000Z |
 | [Disable-Windows-Defender-](https://github.com/EvilGreys/Disable-Windows-Defender-) | Disable Windows Defender (+ UAC Bypass, + Upgrade to SYSTEM) | 192⭐ | 2024-02-09T00:51:15.000Z |
 | [b374k](https://github.com/b374k/b374k) | PHP Webshell with handy features | 2.3k⭐ | 2024-02-09T00:50:12.000Z |
+| [next-landing-vpn](https://github.com/naufaldi/next-landing-vpn) | An Open Source Landingpage For VPN or Apps. Build using NextJS 12 and Tailwind v3.0 | 412⭐ | 2024-02-12T17:46:47.000Z |
