@@ -322,3 +322,4 @@
 | [hyperui](https://github.com/markmead/hyperui) | Free Tailwind CSS components for application UI, ecommerce and marketing with support for dark mode, RTL and Alpine JS 🚀 | 7.1k⭐ | 2024-02-12T19:00:50.000Z |
 | [flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) | Free and open-source admin dashboard template built with Tailwind CSS and Flowbite | 1.4k⭐ | 2024-02-12T19:20:13.000Z |
 | [ui](https://github.com/shadcn-ui/ui) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. | 48.5k⭐ | 2024-02-13T14:19:51.000Z |
+| [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. | 14.2k⭐ | 2024-02-15T17:41:30.000Z |
