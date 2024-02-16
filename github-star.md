@@ -323,3 +323,4 @@
 | [flowbite-admin-dashboard](https://github.com/themesberg/flowbite-admin-dashboard) | Free and open-source admin dashboard template built with Tailwind CSS and Flowbite | 1.4k⭐ | 2024-02-12T19:20:13.000Z |
 | [ui](https://github.com/shadcn-ui/ui) | Beautifully designed components that you can copy and paste into your apps. Accessible. Customizable. Open Source. | 48.5k⭐ | 2024-02-13T14:19:51.000Z |
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. | 14.2k⭐ | 2024-02-15T17:41:30.000Z |
+| [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | 51.3k⭐ | 2024-02-16T10:53:55.000Z |
