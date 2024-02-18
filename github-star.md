@@ -328,3 +328,4 @@
 | [UAC-BOF-Bonanza](https://github.com/ASkyeye/UAC-BOF-Bonanza) | Collection of UAC Bypass Techniques Weaponized as BOFs | 1⭐ | 2024-02-18T02:58:52.000Z |
 | [FullBypass](https://github.com/Sh3lldon/FullBypass) | A tool which bypasses AMSI (AntiMalware Scan Interface) and PowerShell CLM (Constrained Language Mode) and gives you a FullLanguage PowerShell reverse shell. Feel free to modiy and DM if you find some bugs :) | 170⭐ | 2024-02-18T02:57:52.000Z |
 | [LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks | 6.5k⭐ | 2024-02-18T03:00:13.000Z |
+| [zpscan](https://github.com/niudaii/zpscan) | 一个有点好用的信息收集工具。A somewhat useful information gathering tool. | 591⭐ | 2024-02-18T03:10:00.000Z |
