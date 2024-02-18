@@ -325,3 +325,4 @@
 | [OpenVoice](https://github.com/myshell-ai/OpenVoice) | Instant voice cloning by MyShell. | 14.2k⭐ | 2024-02-15T17:41:30.000Z |
 | [alacritty](https://github.com/alacritty/alacritty) | A cross-platform, OpenGL terminal emulator. | 51.3k⭐ | 2024-02-16T10:53:55.000Z |
 | [SyscallMeMaybe](https://github.com/oldboy21/SyscallMeMaybe) | Implementation of Indirect Syscall technique to pop a calc.exe | 52⭐ | 2024-02-18T02:59:25.000Z |
+| [UAC-BOF-Bonanza](https://github.com/ASkyeye/UAC-BOF-Bonanza) | Collection of UAC Bypass Techniques Weaponized as BOFs | 1⭐ | 2024-02-18T02:58:52.000Z |
