@@ -334,3 +334,4 @@
 | [XiebroC2](https://github.com/INotGreen/XiebroC2) | Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能 | 169⭐ | 2024-02-19T03:33:26.000Z |
 | [CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | 195⭐ | 2024-02-19T03:35:59.000Z |
 | [Kamerka-GUI](https://github.com/GhostWolfLab/Kamerka-GUI) | 终极物联网/工业控制系统侦察工具 | 32⭐ | 2024-02-19T03:35:28.000Z |
+| [SharpADWS](https://github.com/wh0amitz/SharpADWS) | Active Directory reconnaissance and exploitation for Red Teams via the Active Directory Web Services (ADWS). | 181⭐ | 2024-02-19T08:42:21.000Z |
