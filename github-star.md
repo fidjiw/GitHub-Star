@@ -330,3 +330,4 @@
 | [LinEnum](https://github.com/rebootuser/LinEnum) | Scripted Local Linux Enumeration & Privilege Escalation Checks | 6.5k⭐ | 2024-02-18T03:00:13.000Z |
 | [zpscan](https://github.com/niudaii/zpscan) | 一个有点好用的信息收集工具。A somewhat useful information gathering tool. | 591⭐ | 2024-02-18T03:10:00.000Z |
 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 该项目没有About | 17.9k⭐ | 2024-02-19T03:34:53.000Z |
+| [UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) | Collection of UAC Bypass Techniques Weaponized as BOFs | 150⭐ | 2024-02-19T03:34:10.000Z |
