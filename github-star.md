@@ -332,3 +332,4 @@
 | [CnC_Remastered_Collection](https://github.com/electronicarts/CnC_Remastered_Collection) | 该项目没有About | 17.9k⭐ | 2024-02-19T03:34:53.000Z |
 | [UAC-BOF-Bonanza](https://github.com/icyguider/UAC-BOF-Bonanza) | Collection of UAC Bypass Techniques Weaponized as BOFs | 150⭐ | 2024-02-19T03:34:10.000Z |
 | [XiebroC2](https://github.com/INotGreen/XiebroC2) | Go编写的多人运动渗透测试图形化框架、支持lua插件扩展、自定义多个模块、自定义shellcode、文件管理、进程管理、内存加载、反向代理等功能 | 169⭐ | 2024-02-19T03:33:26.000Z |
+| [CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability](https://github.com/xaitax/CVE-2024-21413-Microsoft-Outlook-Remote-Code-Execution-Vulnerability) | Microsoft-Outlook-Remote-Code-Execution-Vulnerability | 195⭐ | 2024-02-19T03:35:59.000Z |
