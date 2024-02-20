@@ -338,3 +338,4 @@
 | [browser](https://github.com/mumuy/browser) | 浏览器检测工具 - Useragent分析/浏览器识别/浏览器判断/UA解析/用户代理信息_Useragent analysis tool | 1.2k⭐ | 2024-02-20T03:04:56.000Z |
 | [kunwu](https://github.com/kunwu2023/kunwu) | kunwu是新一代webshell检测引擎，使用了内置了模糊规则、污点分析模拟执行、机器学习三种高效的检测策略 | 179⭐ | 2024-02-20T03:03:25.000Z |
 | [skyeye](https://github.com/wangshuwen1107/skyeye) | APK扫描工具,APK反编译工具 | 19⭐ | 2024-02-20T03:02:52.000Z |
+| [csgo-cheat](https://github.com/michaeliuedu/csgo-cheat) | updated memory internal imgui cheat: includes internal injection with vac bypass | 32⭐ | 2024-02-20T03:02:16.000Z |
