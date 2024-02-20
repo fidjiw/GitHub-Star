@@ -339,3 +339,4 @@
 | [kunwu](https://github.com/kunwu2023/kunwu) | kunwu是新一代webshell检测引擎，使用了内置了模糊规则、污点分析模拟执行、机器学习三种高效的检测策略 | 179⭐ | 2024-02-20T03:03:25.000Z |
 | [skyeye](https://github.com/wangshuwen1107/skyeye) | APK扫描工具,APK反编译工具 | 19⭐ | 2024-02-20T03:02:52.000Z |
 | [csgo-cheat](https://github.com/michaeliuedu/csgo-cheat) | updated memory internal imgui cheat: includes internal injection with vac bypass | 32⭐ | 2024-02-20T03:02:16.000Z |
+| [retrofit](https://github.com/square/retrofit) | A type-safe HTTP client for Android and the JVM | 42.4k⭐ | 2024-02-20T03:39:02.000Z |
