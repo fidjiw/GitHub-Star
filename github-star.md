@@ -342,3 +342,4 @@
 | [retrofit](https://github.com/square/retrofit) | A type-safe HTTP client for Android and the JVM | 42.4k⭐ | 2024-02-20T03:39:02.000Z |
 | [java-security-manager-bypass](https://github.com/codeplutos/java-security-manager-bypass) | 该项目没有About | 124⭐ | 2024-02-20T17:58:21.000Z |
 | [RedTeaming_CheatSheet](https://github.com/0xJs/RedTeaming_CheatSheet) | Pentesting cheatsheet with all the commands I learned during my learning journey. Will try to to keep it up-to-date. | 1k⭐ | 2024-02-22T01:03:25.000Z |
+| [SecurityList](https://github.com/ax1sX/SecurityList) | A list for Web Security and Code Audit | 632⭐ | 2024-02-22T01:02:48.000Z |
