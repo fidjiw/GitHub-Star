@@ -345,3 +345,4 @@
 | [SecurityList](https://github.com/ax1sX/SecurityList) | A list for Web Security and Code Audit | 632⭐ | 2024-02-22T01:02:48.000Z |
 | [go-ThreadlessInject](https://github.com/dreamkinn/go-ThreadlessInject) | Golang implementation of @CCob's C# ThreadlessInject | 19⭐ | 2024-02-22T01:01:08.000Z |
 | [zerolog](https://github.com/rs/zerolog) | Zero Allocation JSON Logger | 9.5k⭐ | 2024-02-22T17:00:36.000Z |
+| [SmartProxy](https://github.com/salarcode/SmartProxy) | Firefox/Chrome browser extension. SmartProxy will automatically enable/disable proxy for the sites you visit, based on customizable patterns. | 1.2k⭐ | 2024-02-23T05:36:44.000Z |
