@@ -352,3 +352,6 @@
 | [sonner](https://github.com/emilkowalski/sonner) | 
         An opinionated toast component for React.
        | 6.6k⭐ | 2024-03-02T13:26:37.000Z |
+| [chromedp](https://github.com/chromedp/chromedp) | 
+        A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
+       | 10.1k⭐ | 2024-03-02T17:21:44.000Z |
