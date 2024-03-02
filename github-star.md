@@ -349,3 +349,6 @@
 | [wewe-rss](https://github.com/cooderl/wewe-rss) | 
         更优雅的微信公众号订阅方式，支持私有化部署、微信公众号RSS生成（基于微信读书）
        | 590⭐ | 2024-03-02T12:40:26.000Z |
+| [sonner](https://github.com/emilkowalski/sonner) | 
+        An opinionated toast component for React.
+       | 6.6k⭐ | 2024-03-02T13:26:37.000Z |
