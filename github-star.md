@@ -358,3 +358,6 @@
 | [ydotool](https://github.com/ReimuNotMoe/ydotool) | 
         Generic command-line automation tool (no X!)
        | 1.2k⭐ | 2024-03-04T01:27:51.000Z |
+| [auto](https://github.com/fuyoumingyan/auto) | 
+        赏金自动化工具
+       | 10⭐ | 2024-03-04T01:31:33.000Z |
