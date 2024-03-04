@@ -361,3 +361,6 @@
 | [auto](https://github.com/fuyoumingyan/auto) | 
         赏金自动化工具
        | 10⭐ | 2024-03-04T01:31:33.000Z |
+| [chunsou](https://github.com/Funsiooo/chunsou) | 
+        Chunsou（春蒐），Python3编写的多线程Web指纹识别工具,适用于安全测试人员前期的资产识别、风险收敛以及企业互联网资产风险摸查。
+       | 235⭐ | 2024-03-04T05:21:43.000Z |
