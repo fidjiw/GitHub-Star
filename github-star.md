@@ -355,3 +355,6 @@
 | [chromedp](https://github.com/chromedp/chromedp) | 
         A faster, simpler way to drive browsers supporting the Chrome DevTools Protocol.
        | 10.1k⭐ | 2024-03-02T17:21:44.000Z |
+| [ydotool](https://github.com/ReimuNotMoe/ydotool) | 
+        Generic command-line automation tool (no X!)
+       | 1.2k⭐ | 2024-03-04T01:27:51.000Z |
