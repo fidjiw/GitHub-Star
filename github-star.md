@@ -371,3 +371,6 @@
 | [Shellcode-Encryption](https://github.com/yashmundra/Shellcode-Encryption) | 
         Encrypting shellcode to Bypass AV 
        | 61⭐ | 2024-03-05T02:33:45.000Z |
+| [mortar](https://github.com/0xsp-SRD/mortar) | 
+        evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)
+       | 1.3k⭐ | 2024-03-05T02:33:14.000Z |
