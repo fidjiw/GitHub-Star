@@ -368,3 +368,6 @@
 | [JavaVul](https://github.com/lokerxx/JavaVul) | 
         JAVA 安全靶场，IAST 测试用例，JAVA漏洞复现，代码审计
        | 29⭐ | 2024-03-05T02:35:12.000Z |
+| [Shellcode-Encryption](https://github.com/yashmundra/Shellcode-Encryption) | 
+        Encrypting shellcode to Bypass AV 
+       | 61⭐ | 2024-03-05T02:33:45.000Z |
