@@ -374,3 +374,6 @@
 | [mortar](https://github.com/0xsp-SRD/mortar) | 
         evasion technique to defeat and divert detection and prevention of security products (AV/EDR/XDR)
        | 1.3k⭐ | 2024-03-05T02:33:14.000Z |
+| [ai-exploits](https://github.com/protectai/ai-exploits) | 
+        A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities 
+       | 1.1k⭐ | 2024-03-05T02:38:15.000Z |
