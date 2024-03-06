@@ -380,3 +380,6 @@
 | [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) | 
         A byte code analyzer for finding deserialization gadget chains in Java applications
        | 940⭐ | 2024-03-06T03:08:27.000Z |
+| [defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) | 
+        Writing custom backdoor payloads with C# - Defcon 27 Workshop
+       | 947⭐ | 2024-03-06T03:07:58.000Z |
