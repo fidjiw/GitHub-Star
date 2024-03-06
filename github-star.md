@@ -377,3 +377,6 @@
 | [ai-exploits](https://github.com/protectai/ai-exploits) | 
         A collection of real world AI/ML exploits for responsibly disclosed vulnerabilities 
        | 1.1k⭐ | 2024-03-05T02:38:15.000Z |
+| [gadgetinspector](https://github.com/JackOfMostTrades/gadgetinspector) | 
+        A byte code analyzer for finding deserialization gadget chains in Java applications
+       | 940⭐ | 2024-03-06T03:08:27.000Z |
