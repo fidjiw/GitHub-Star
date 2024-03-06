@@ -386,3 +386,6 @@
 | [Pyramid](https://github.com/naksyn/Pyramid) | 
         a tool to help operate in EDRs' blind spots
        | 581⭐ | 2024-03-06T03:07:08.000Z |
+| [JNDIMap](https://github.com/X1r0z/JNDIMap) | 
+        JNDI 注入利用工具, 支持 RMI 和 LDAP 协议, 包含多种高版本 JDK 绕过方式
+       | 91⭐ | 2024-03-06T03:06:33.000Z |
