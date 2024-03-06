@@ -383,3 +383,6 @@
 | [defcon27_csharp_workshop](https://github.com/mvelazc0/defcon27_csharp_workshop) | 
         Writing custom backdoor payloads with C# - Defcon 27 Workshop
        | 947⭐ | 2024-03-06T03:07:58.000Z |
+| [Pyramid](https://github.com/naksyn/Pyramid) | 
+        a tool to help operate in EDRs' blind spots
+       | 581⭐ | 2024-03-06T03:07:08.000Z |
