@@ -389,3 +389,6 @@
 | [JNDIMap](https://github.com/X1r0z/JNDIMap) | 
         JNDI 注入利用工具, 支持 RMI 和 LDAP 协议, 包含多种高版本 JDK 绕过方式
        | 91⭐ | 2024-03-06T03:06:33.000Z |
+| [nopowershell](https://github.com/bitsadmin/nopowershell) | 
+        PowerShell rebuilt in C# for Red Teaming purposes
+       | 868⭐ | 2024-03-06T03:10:27.000Z |
