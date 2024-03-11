@@ -398,3 +398,6 @@
 | [sqlmap-gui](https://github.com/honmashironeko/sqlmap-gui) | 
         基于SQLmap工具进行汉化，并提供GUI界面
        | 55⭐ | 2024-03-11T02:39:01.000Z |
+| [SharpThief](https://github.com/INotGreen/SharpThief) | 
+        一键窃取文件的图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
+       | 94⭐ | 2024-03-11T02:38:54.000Z |
