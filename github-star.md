@@ -401,3 +401,6 @@
 | [SharpThief](https://github.com/INotGreen/SharpThief) | 
         一键窃取文件的图标、资源信息、版本信息、修改时间、数字签名，降低程序熵值
        | 94⭐ | 2024-03-11T02:38:54.000Z |
+| [403jump](https://github.com/trap-bytes/403jump) | 
+        HTTP 403 bypass tool
+       | 116⭐ | 2024-03-11T02:38:54.000Z |
