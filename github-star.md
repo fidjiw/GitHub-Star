@@ -392,3 +392,6 @@
 | [nopowershell](https://github.com/bitsadmin/nopowershell) | 
         PowerShell rebuilt in C# for Red Teaming purposes
        | 868⭐ | 2024-03-06T03:10:27.000Z |
+| [EquationToolsGUI](https://github.com/abc123info/EquationToolsGUI) | 
+        本程序为美国NSA的方程式工具包图形界面版，由ABC_123于2017年开始编写，仅用来扫描和验证MS17-010、MS09-050、MS08-067漏洞，并可协助管理员修复系统漏洞。
+       | 97⭐ | 2024-03-11T02:39:42.000Z |
