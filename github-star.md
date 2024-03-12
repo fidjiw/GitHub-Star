@@ -407,3 +407,6 @@
 | [pc_wxapkg_decrypt_python](https://github.com/superdashu/pc_wxapkg_decrypt_python) | 
         PC微信小程序 wxapkg 解密
        | 158⭐ | 2024-03-12T03:25:09.000Z |
+| [pc_wxapkg_decrypt](https://github.com/BlackTrace/pc_wxapkg_decrypt) | 
+        windows pc端wxpkg文件解密（非解包）
+       | 592⭐ | 2024-03-12T03:24:41.000Z |
