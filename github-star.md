@@ -410,3 +410,6 @@
 | [pc_wxapkg_decrypt](https://github.com/BlackTrace/pc_wxapkg_decrypt) | 
         windows pc端wxpkg文件解密（非解包）
        | 592⭐ | 2024-03-12T03:24:41.000Z |
+| [Forensike](https://github.com/bmarchev/Forensike) | 
+        Remotely dump NT hashes through Windows Crash dumps 
+       | 8⭐ | 2024-03-12T03:23:51.000Z |
