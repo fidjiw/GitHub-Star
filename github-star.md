@@ -413,3 +413,6 @@
 | [Forensike](https://github.com/bmarchev/Forensike) | 
         Remotely dump NT hashes through Windows Crash dumps 
        | 8⭐ | 2024-03-12T03:23:51.000Z |
+| [go-jpeg-image-structure](https://github.com/dsoprea/go-jpeg-image-structure) | 
+        Parse JPEG data into segments via code or CLI from pure Go. Read/export/write EXIF data. Read XMP and IPTC metadata.
+       | 64⭐ | 2024-03-12T03:25:41.000Z |
