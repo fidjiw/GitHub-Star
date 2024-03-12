@@ -404,3 +404,6 @@
 | [403jump](https://github.com/trap-bytes/403jump) | 
         HTTP 403 bypass tool
        | 116⭐ | 2024-03-11T02:38:54.000Z |
+| [pc_wxapkg_decrypt_python](https://github.com/superdashu/pc_wxapkg_decrypt_python) | 
+        PC微信小程序 wxapkg 解密
+       | 158⭐ | 2024-03-12T03:25:09.000Z |
