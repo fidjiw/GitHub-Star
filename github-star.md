@@ -416,3 +416,6 @@
 | [go-jpeg-image-structure](https://github.com/dsoprea/go-jpeg-image-structure) | 
         Parse JPEG data into segments via code or CLI from pure Go. Read/export/write EXIF data. Read XMP and IPTC metadata.
        | 64⭐ | 2024-03-12T03:25:41.000Z |
+| [windows](https://github.com/dockur/windows) | 
+        Windows in a Docker container.
+       | 7.5k⭐ | 2024-03-12T08:54:52.000Z |
