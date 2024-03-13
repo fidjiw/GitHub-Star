@@ -428,3 +428,6 @@
 | [bytematch](https://github.com/MountCloud/bytematch) | 
         🔍精简字节模糊匹配：48 52 E1 ?A 5? ?? 11{1,5} ?A{1,6} 6?{5,10}，Simplified Byte Fuzzy Matching:48 52 E1? A 5?? 11 {1,5}? A {1,6} 6? {5,10}
        | 5⭐ | 2024-03-13T03:31:24.000Z |
+| [radare2](https://github.com/radareorg/radare2) | 
+        UNIX-like reverse engineering framework and command-line toolset
+       | 19.4k⭐ | 2024-03-13T03:30:53.000Z |
