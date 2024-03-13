@@ -419,3 +419,6 @@
 | [windows](https://github.com/dockur/windows) | 
         Windows in a Docker container.
        | 7.5k⭐ | 2024-03-12T08:54:52.000Z |
+| [alioss-stinger](https://github.com/pant0m/alioss-stinger) | 
+        利用阿里云oss对象存储，来转发http流量实现（cs）Cobalt Strike、msf 上线等 这之间利用阿里云的相关域名进行通信。
+       | 83⭐ | 2024-03-13T03:29:31.000Z |
