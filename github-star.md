@@ -431,3 +431,6 @@
 | [radare2](https://github.com/radareorg/radare2) | 
         UNIX-like reverse engineering framework and command-line toolset
        | 19.4k⭐ | 2024-03-13T03:30:53.000Z |
+| [PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) | 
+        Command & Control-Framework created for collaboration in python3
+       | 283⭐ | 2024-03-13T03:30:24.000Z |
