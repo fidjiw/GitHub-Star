@@ -425,3 +425,6 @@
 | [utf-8-overlong-encoding](https://github.com/Whoopsunix/utf-8-overlong-encoding) | 
         抽离出 utf-8-overlong-encoding 的序列化逻辑，实现 2 3 字节加密序列化数组
        | 77⭐ | 2024-03-13T03:26:18.000Z |
+| [bytematch](https://github.com/MountCloud/bytematch) | 
+        🔍精简字节模糊匹配：48 52 E1 ?A 5? ?? 11{1,5} ?A{1,6} 6?{5,10}，Simplified Byte Fuzzy Matching:48 52 E1? A 5?? 11 {1,5}? A {1,6} 6? {5,10}
+       | 5⭐ | 2024-03-13T03:31:24.000Z |
