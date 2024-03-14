@@ -437,3 +437,6 @@
 | [weblogic-batch-memshell-kit](https://github.com/W01fh4cker/weblogic-batch-memshell-kit) | 
         weblogic批量打入内存马，electron+vue3+springboot实现。
        | 10⭐ | 2024-03-14T03:22:48.000Z |
+| [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet) | 
+        The cheat sheet about Java Deserialization vulnerabilities
+       | 2.9k⭐ | 2024-03-14T03:22:19.000Z |
