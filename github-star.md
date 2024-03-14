@@ -440,3 +440,6 @@
 | [Java-Deserialization-Cheat-Sheet](https://github.com/GrrrDog/Java-Deserialization-Cheat-Sheet) | 
         The cheat sheet about Java Deserialization vulnerabilities
        | 2.9k⭐ | 2024-03-14T03:22:19.000Z |
+| [VscanPlus](https://github.com/youki992/VscanPlus) | 
+        基于veo师傅的漏扫工具vscan二次开发的版本，开源、轻量、快速、跨平台 的网站漏洞扫描工具，帮助您快速检测网站安全隐患。功能 端口扫描(port scan) 指纹识别(fingerprint) 漏洞检测(nday check) 智能爆破 (admin brute) 敏感文件扫描(file fuzz)
+       | 34⭐ | 2024-03-14T03:21:45.000Z |
