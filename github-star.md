@@ -434,3 +434,6 @@
 | [PhoenixC2](https://github.com/PhoenixC2/PhoenixC2) | 
         Command & Control-Framework created for collaboration in python3
        | 283⭐ | 2024-03-13T03:30:24.000Z |
+| [weblogic-batch-memshell-kit](https://github.com/W01fh4cker/weblogic-batch-memshell-kit) | 
+        weblogic批量打入内存马，electron+vue3+springboot实现。
+       | 10⭐ | 2024-03-14T03:22:48.000Z |
