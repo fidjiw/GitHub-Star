@@ -452,3 +452,6 @@
 | [GitHubPoster](https://github.com/yihong0618/GitHubPoster) | 
         Make everything a GitHub svg poster and Skyline!
        | 1.7k⭐ | 2024-03-17T10:51:13.000Z |
+| [excalidraw](https://github.com/excalidraw/excalidraw) | 
+        Virtual whiteboard for sketching hand-drawn like diagrams
+       | 70.4k⭐ | 2024-03-17T11:29:30.000Z |
