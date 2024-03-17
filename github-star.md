@@ -446,3 +446,6 @@
 | [Pyke-Shiro](https://github.com/sma11new/Pyke-Shiro) | 
         复杂请求下的Shiro反序列化利用工具
        | 64⭐ | 2024-03-14T03:21:13.000Z |
+| [x-cmd](https://github.com/x-cmd/x-cmd) | 
+        Opensource lightweight posix script for tools (500+) management and classic command extensions
+       | 65⭐ | 2024-03-17T05:15:45.000Z |
