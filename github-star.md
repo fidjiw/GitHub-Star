@@ -473,3 +473,6 @@
 | [Supershell](https://github.com/tdragon6/Supershell) | 
         Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
        | 1.2k⭐ | 2024-03-18T06:59:04.000Z |
+| [Mangle](https://github.com/optiv/Mangle) | 
+        Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs
+       | 1.1k⭐ | 2024-03-18T06:58:43.000Z |
