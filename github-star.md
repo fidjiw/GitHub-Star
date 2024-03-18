@@ -467,3 +467,6 @@
 | [anymapper](https://github.com/kkent030315/anymapper) | 
         x64 Windows kernel driver mapper, inject unsigned driver using anycall
        | 87⭐ | 2024-03-18T02:38:45.000Z |
+| [cmd.jsp](https://github.com/SecurityRiskAdvisors/cmd.jsp) | 
+        A super small jsp webshell with file upload capabilities.
+       | 273⭐ | 2024-03-18T02:40:48.000Z |
