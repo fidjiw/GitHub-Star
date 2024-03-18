@@ -464,3 +464,6 @@
 | [DecryptTools](https://github.com/wafinfo/DecryptTools) | 
         DecryptTools-综合解密
        | 217⭐ | 2024-03-18T02:39:18.000Z |
+| [anymapper](https://github.com/kkent030315/anymapper) | 
+        x64 Windows kernel driver mapper, inject unsigned driver using anycall
+       | 87⭐ | 2024-03-18T02:38:45.000Z |
