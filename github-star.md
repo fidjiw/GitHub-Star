@@ -455,3 +455,6 @@
 | [excalidraw](https://github.com/excalidraw/excalidraw) | 
         Virtual whiteboard for sketching hand-drawn like diagrams
        | 70.4k⭐ | 2024-03-17T11:29:30.000Z |
+| [Easy-DDOS](https://github.com/LinWin-Cloud/Easy-DDOS) | 
+        EasyDDOS高性能DDOS工具-流量杀手。专门设计用于在一段时间内(攻击与结束后) 局域网或者手机电脑热点瘫痪、流量欠费、局域网内所有互联网设备的网络全部掉线或者网络及慢。在ddos方案中，该软件提供 http 高度攻击、死亡之ping、局域网/热点扫描与信息收集等。
+       | 25⭐ | 2024-03-18T02:40:06.000Z |
