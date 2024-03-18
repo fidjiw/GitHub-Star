@@ -476,3 +476,6 @@
 | [Mangle](https://github.com/optiv/Mangle) | 
         Mangle is a tool that manipulates aspects of compiled executables (.exe or DLL) to avoid detection from EDRs
        | 1.1k⭐ | 2024-03-18T06:58:43.000Z |
+| [grok-1](https://github.com/xai-org/grok-1) | 
+        Grok open release
+       | 16.3k⭐ | 2024-03-18T08:44:03.000Z |
