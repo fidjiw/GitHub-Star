@@ -470,3 +470,6 @@
 | [cmd.jsp](https://github.com/SecurityRiskAdvisors/cmd.jsp) | 
         A super small jsp webshell with file upload capabilities.
        | 273⭐ | 2024-03-18T02:40:48.000Z |
+| [Supershell](https://github.com/tdragon6/Supershell) | 
+        Supershell C2 远控平台，基于反向SSH隧道获取完全交互式Shell
+       | 1.2k⭐ | 2024-03-18T06:59:04.000Z |
