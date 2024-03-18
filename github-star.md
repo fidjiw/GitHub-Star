@@ -461,3 +461,6 @@
 | [secrets-patterns-db](https://github.com/mazen160/secrets-patterns-db) | 
         Secrets Patterns DB: The largest open-source Database for detecting secrets, API keys, passwords, tokens, and more.
        | 922⭐ | 2024-03-18T02:39:57.000Z |
+| [DecryptTools](https://github.com/wafinfo/DecryptTools) | 
+        DecryptTools-综合解密
+       | 217⭐ | 2024-03-18T02:39:18.000Z |
