@@ -485,3 +485,6 @@
 | [CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) | 
         基于 OPSEC 的 CobaltStrike 后渗透自动化链
        | 108⭐ | 2024-03-19T03:03:04.000Z |
+| [Kernel-Driver-Read-Write-Memory-GDI-Overlay](https://github.com/ninetails0/Kernel-Driver-Read-Write-Memory-GDI-Overlay) | 
+        Driver hooks a function from NT windows. read/write memory and use windows GDI to draw on buffer from kernel.
+       | 29⭐ | 2024-03-19T03:02:06.000Z |
