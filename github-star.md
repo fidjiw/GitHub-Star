@@ -479,3 +479,6 @@
 | [grok-1](https://github.com/xai-org/grok-1) | 
         Grok open release
        | 16.3k⭐ | 2024-03-18T08:44:03.000Z |
+| [jsmug](https://github.com/xscorp/jsmug) | 
+        A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
+       | 46⭐ | 2024-03-19T03:05:15.000Z |
