@@ -482,3 +482,6 @@
 | [jsmug](https://github.com/xscorp/jsmug) | 
         A PoC code for JSON Smuggling technique to smuggle arbitrary files through JSON
        | 46⭐ | 2024-03-19T03:05:15.000Z |
+| [CS-AutoPostChain](https://github.com/lintstar/CS-AutoPostChain) | 
+        基于 OPSEC 的 CobaltStrike 后渗透自动化链
+       | 108⭐ | 2024-03-19T03:03:04.000Z |
