@@ -497,3 +497,6 @@
 | [SymProcAddress](https://github.com/MzHmO/SymProcAddress) | 
         Zero EAT touch way to retrieve function addresses (GetProcAddress on steroids)
        | 59⭐ | 2024-03-20T03:26:47.000Z |
+| [WEB-shiro_rememberMe_encode_decode](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode) | 
+        shiro rememberMe 在线加解密工具
+       | 46⭐ | 2024-03-20T03:31:26.000Z |
