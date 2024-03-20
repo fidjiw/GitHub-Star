@@ -488,3 +488,6 @@
 | [Kernel-Driver-Read-Write-Memory-GDI-Overlay](https://github.com/ninetails0/Kernel-Driver-Read-Write-Memory-GDI-Overlay) | 
         Driver hooks a function from NT windows. read/write memory and use windows GDI to draw on buffer from kernel.
        | 29⭐ | 2024-03-19T03:02:06.000Z |
+| [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint) | 
+        BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件
+       | 55⭐ | 2024-03-20T03:28:15.000Z |
