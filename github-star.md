@@ -500,3 +500,6 @@
 | [WEB-shiro_rememberMe_encode_decode](https://github.com/M-Kings/WEB-shiro_rememberMe_encode_decode) | 
         shiro rememberMe 在线加解密工具
        | 46⭐ | 2024-03-20T03:31:26.000Z |
+| [kimi-free-api](https://github.com/LLM-Red-Team/kimi-free-api) | 
+        🚀 KIMI AI 长文本大模型白嫖服务，支持高速流式输出、联网搜索、长文档解读、图像解析、多轮对话，零配置部署，多路token支持，自动清理会话痕迹。
+       | 137⭐ | 2024-03-20T04:23:47.000Z |
