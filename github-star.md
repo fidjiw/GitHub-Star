@@ -494,3 +494,6 @@
 | [Dll-Injector-V4](https://github.com/PAULOSTON/Dll-Injector-V4) | 
         Injects cheat code into the game process.Injects an external DLL file into the target process.Loads and associates a DLL file into the target process.
        | 7⭐ | 2024-03-20T03:27:42.000Z |
+| [SymProcAddress](https://github.com/MzHmO/SymProcAddress) | 
+        Zero EAT touch way to retrieve function addresses (GetProcAddress on steroids)
+       | 59⭐ | 2024-03-20T03:26:47.000Z |
