@@ -491,3 +491,6 @@
 | [BurpFingerPrint](https://github.com/shuanx/BurpFingerPrint) | 
         BurpSuite插件集成Ehole指纹库并进行常见OA弱口令爆破插件
        | 55⭐ | 2024-03-20T03:28:15.000Z |
+| [Dll-Injector-V4](https://github.com/PAULOSTON/Dll-Injector-V4) | 
+        Injects cheat code into the game process.Injects an external DLL file into the target process.Loads and associates a DLL file into the target process.
+       | 7⭐ | 2024-03-20T03:27:42.000Z |
