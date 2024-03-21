@@ -512,3 +512,6 @@
 | [sqlmap4burp-plus-plus](https://github.com/c0ny1/sqlmap4burp-plus-plus) | 
         sqlmap4burp++是一款兼容Windows，mac，linux多个系统平台的Burp与sqlmap联动插件
        | 679⭐ | 2024-03-21T03:02:24.000Z |
+| [flipper_zero_ble_killer](https://github.com/H4lo/flipper_zero_ble_killer) | 
+        基于 flipper zero的蓝牙扩展板，实现扫描周围低功耗蓝牙设备以及蓝牙设备控制器
+       | 15⭐ | 2024-03-21T03:01:30.000Z |
