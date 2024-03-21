@@ -506,3 +506,6 @@
 | [injectEtwBypass](https://github.com/boku7/injectEtwBypass) | 
         CobaltStrike BOF - Inject ETW Bypass into Remote Process via Syscalls (HellsGateHalosGate)
        | 265⭐ | 2024-03-21T02:59:07.000Z |
+| [port_reuse](https://github.com/p1d3er/port_reuse) | 
+        golang 实现的windows and linux 端口复用工具。
+       | 17⭐ | 2024-03-21T02:57:15.000Z |
