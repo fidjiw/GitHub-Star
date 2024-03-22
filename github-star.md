@@ -515,3 +515,6 @@
 | [flipper_zero_ble_killer](https://github.com/H4lo/flipper_zero_ble_killer) | 
         基于 flipper zero的蓝牙扩展板，实现扫描周围低功耗蓝牙设备以及蓝牙设备控制器
        | 15⭐ | 2024-03-21T03:01:30.000Z |
+| [Practice-AD-CS-Domain-Escalation](https://github.com/arth0sz/Practice-AD-CS-Domain-Escalation) | 
+        Introductory guide on the configuration and subsequent exploitation of Active Directory Certificate Services with Certipy. Based on the white paper Certified Pre-Owned.
+       | 64⭐ | 2024-03-22T01:57:45.000Z |
