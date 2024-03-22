@@ -527,3 +527,6 @@
 | [langchain](https://github.com/langchain-ai/langchain) | 
         🦜🔗 Build context-aware reasoning applications
        | 80k⭐ | 2024-03-22T12:47:22.000Z |
+| [Reports-on-Various-FineTuning-Techniques-on-LLMs](https://github.com/khazic/Reports-on-Various-FineTuning-Techniques-on-LLMs) | 
+        在yi-9b的微调测试结果
+       | 11⭐ | 2024-03-22T12:46:00.000Z |
