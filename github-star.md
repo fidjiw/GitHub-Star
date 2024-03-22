@@ -521,3 +521,6 @@
 | [http-garden](https://github.com/narfindustries/http-garden) | 
         Differential testing and fuzzing of HTTP servers and proxies
        | 576⭐ | 2024-03-22T01:57:06.000Z |
+| [dify](https://github.com/langgenius/dify) | 
+        An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
+       | 18k⭐ | 2024-03-22T08:34:50.000Z |
