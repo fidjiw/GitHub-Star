@@ -524,3 +524,6 @@
 | [dify](https://github.com/langgenius/dify) | 
         An Open-Source Assistants API and GPTs alternative. Dify.AI is an LLM application development platform. It integrates the concepts of Backend as a Service and LLMOps, covering the core tech stack required for building generative AI-native applications, including a built-in RAG engine.
        | 18k⭐ | 2024-03-22T08:34:50.000Z |
+| [langchain](https://github.com/langchain-ai/langchain) | 
+        🦜🔗 Build context-aware reasoning applications
+       | 80k⭐ | 2024-03-22T12:47:22.000Z |
