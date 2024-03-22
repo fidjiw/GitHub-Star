@@ -518,3 +518,6 @@
 | [Practice-AD-CS-Domain-Escalation](https://github.com/arth0sz/Practice-AD-CS-Domain-Escalation) | 
         Introductory guide on the configuration and subsequent exploitation of Active Directory Certificate Services with Certipy. Based on the white paper Certified Pre-Owned.
        | 64⭐ | 2024-03-22T01:57:45.000Z |
+| [http-garden](https://github.com/narfindustries/http-garden) | 
+        Differential testing and fuzzing of HTTP servers and proxies
+       | 576⭐ | 2024-03-22T01:57:06.000Z |
