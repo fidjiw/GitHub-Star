@@ -530,3 +530,6 @@
 | [Reports-on-Various-FineTuning-Techniques-on-LLMs](https://github.com/khazic/Reports-on-Various-FineTuning-Techniques-on-LLMs) | 
         在yi-9b的微调测试结果
        | 11⭐ | 2024-03-22T12:46:00.000Z |
+| [RSS-Translator](https://github.com/rss-translator/RSS-Translator) | 
+        开源、简洁、可自部署的RSS翻译器  Open Source, Lightweight, Self-hosted
+       | 144⭐ | 2024-03-24T13:19:59.000Z |
