@@ -551,3 +551,6 @@
 | [perfect-dll-proxy](https://github.com/mrexodia/perfect-dll-proxy) | 
         Perfect DLL Proxying using forwards with absolute paths.
        | 74⭐ | 2024-03-25T03:40:39.000Z |
+| [mindgraph](https://github.com/yoheinakajima/mindgraph) | 
+        proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
+       | 620⭐ | 2024-03-25T12:21:36.000Z |
