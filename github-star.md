@@ -542,3 +542,6 @@
 | [GattFuzz](https://github.com/0xXxyu/GattFuzz) | 
         GattFuzz 是一款针对BLE Gatt接口的模糊测试工具。
        | 15⭐ | 2024-03-25T03:36:26.000Z |
+| [DynamicMSBuilder](https://github.com/ZephrFish/DynamicMSBuilder) | 
+        A Dynamic MSBuild task to help with minor obfuscation of C# Binaries to evade static signatures on each compilation
+       | 14⭐ | 2024-03-25T03:35:54.000Z |
