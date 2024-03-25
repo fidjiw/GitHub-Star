@@ -536,3 +536,6 @@
 | [hhash](https://github.com/ttstormxx/hhash) | 
         简单小巧的哈希计算工具，MD5/SHA1/SHA256/SHA512，支持字符串、文件哈希计算，支持按照指定顺序计算哈希值
        | 1⭐ | 2024-03-25T03:37:28.000Z |
+| [unKover](https://github.com/eversinc33/unKover) | 
+        PoC Anti-Rootkit to uncover Windows Drivers/Rootkits mapped to Kernel Memory.
+       | 48⭐ | 2024-03-25T03:36:54.000Z |
