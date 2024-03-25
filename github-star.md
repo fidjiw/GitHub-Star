@@ -545,3 +545,6 @@
 | [DynamicMSBuilder](https://github.com/ZephrFish/DynamicMSBuilder) | 
         A Dynamic MSBuild task to help with minor obfuscation of C# Binaries to evade static signatures on each compilation
        | 14⭐ | 2024-03-25T03:35:54.000Z |
+| [FrchannelPlus](https://github.com/BambiZombie/FrchannelPlus) | 
+        帆软bi反序列化漏洞利用工具
+       | 7⭐ | 2024-03-25T03:35:16.000Z |
