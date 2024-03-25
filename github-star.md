@@ -554,3 +554,6 @@
 | [mindgraph](https://github.com/yoheinakajima/mindgraph) | 
         proof of concept prototype for generating and querying against an ever-expanding knowledge graph with ai
        | 620⭐ | 2024-03-25T12:21:36.000Z |
+| [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) | 
+        Llama中文社区，最好的中文Llama大模型，完全开源可商用
+       | 8.9k⭐ | 2024-03-25T12:28:01.000Z |
