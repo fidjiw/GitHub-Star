@@ -533,3 +533,6 @@
 | [RSS-Translator](https://github.com/rss-translator/RSS-Translator) | 
         开源、简洁、可自部署的RSS翻译器  Open Source, Lightweight, Self-hosted
        | 144⭐ | 2024-03-24T13:19:59.000Z |
+| [hhash](https://github.com/ttstormxx/hhash) | 
+        简单小巧的哈希计算工具，MD5/SHA1/SHA256/SHA512，支持字符串、文件哈希计算，支持按照指定顺序计算哈希值
+       | 1⭐ | 2024-03-25T03:37:28.000Z |
