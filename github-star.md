@@ -548,3 +548,6 @@
 | [FrchannelPlus](https://github.com/BambiZombie/FrchannelPlus) | 
         帆软bi反序列化漏洞利用工具
        | 7⭐ | 2024-03-25T03:35:16.000Z |
+| [perfect-dll-proxy](https://github.com/mrexodia/perfect-dll-proxy) | 
+        Perfect DLL Proxying using forwards with absolute paths.
+       | 74⭐ | 2024-03-25T03:40:39.000Z |
