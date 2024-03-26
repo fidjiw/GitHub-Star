@@ -557,3 +557,6 @@
 | [Llama-Chinese](https://github.com/LlamaFamily/Llama-Chinese) | 
         Llama中文社区，最好的中文Llama大模型，完全开源可商用
        | 8.9k⭐ | 2024-03-25T12:28:01.000Z |
+| [CLRInjector](https://github.com/bananabr/CLRInjector) | 
+        A PoC .NET-specific process injection tool
+       | 23⭐ | 2024-03-26T01:57:26.000Z |
