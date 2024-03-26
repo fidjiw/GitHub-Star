@@ -560,3 +560,6 @@
 | [CLRInjector](https://github.com/bananabr/CLRInjector) | 
         A PoC .NET-specific process injection tool
        | 23⭐ | 2024-03-26T01:57:26.000Z |
+| [KernelInjector](https://github.com/0mWindyBug/KernelInjector) | 
+        PoC kernel to usermode injection 
+       | 22⭐ | 2024-03-26T01:56:57.000Z |
