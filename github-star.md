@@ -572,3 +572,6 @@
 | [bearer](https://github.com/Bearer/bearer) | 
         Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
        | 1.7k⭐ | 2024-03-27T02:58:06.000Z |
+| [Nope-Proxy](https://github.com/summitt/Nope-Proxy) | 
+        TCP/UDP Non-HTTP Proxy Extension (NoPE) for Burp Suite.
+       | 1.5k⭐ | 2024-03-27T02:57:31.000Z |
