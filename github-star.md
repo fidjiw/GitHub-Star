@@ -590,3 +590,6 @@
 | [one-api](https://github.com/songquanpeng/one-api) | 
         OpenAI 接口管理 & 分发系统，支持 Azure、Anthropic Claude、Google PaLM 2 & Gemini、智谱 ChatGLM、百度文心一言、讯飞星火认知、阿里通义千问、360 智脑以及腾讯混元，可用于二次分发管理 key，仅单可执行文件，已打包好 Docker 镜像，一键部署，开箱即用. OpenAI key management & redistribution system, using a single API for all LLMs, and features an English UI.
        | 12k⭐ | 2024-03-27T11:34:29.000Z |
+| [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 
+        Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
+       | 14.5k⭐ | 2024-03-27T15:01:25.000Z |
