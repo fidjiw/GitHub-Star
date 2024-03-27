@@ -584,3 +584,6 @@
 | [lobe-chat](https://github.com/lobehub/lobe-chat) | 
         🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
        | 25.2k⭐ | 2024-03-27T03:40:09.000Z |
+| [ollama](https://github.com/ollama/ollama) | 
+        Get up and running with Llama 2, Mistral, Gemma, and other large language models.
+       | 50.7k⭐ | 2024-03-27T05:05:46.000Z |
