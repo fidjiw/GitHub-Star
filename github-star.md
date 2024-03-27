@@ -581,3 +581,6 @@
 | [icmptunnel](https://github.com/DhavalKapil/icmptunnel) | 
         Transparently tunnel your IP traffic through ICMP echo and reply packets.
        | 3k⭐ | 2024-03-27T03:01:01.000Z |
+| [lobe-chat](https://github.com/lobehub/lobe-chat) | 
+        🤯 Lobe Chat - an open-source, modern-design LLMs/AI chat framework. Supports Multi AI Providers( OpenAI / Claude 3 / Gemini / Perplexity / Bedrock / Azure / Mistral / Ollama ), Multi-Modals (Vision/TTS) and plugin system. One-click FREE deployment of your private ChatGPT chat application.
+       | 25.2k⭐ | 2024-03-27T03:40:09.000Z |
