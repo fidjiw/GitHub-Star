@@ -563,3 +563,6 @@
 | [KernelInjector](https://github.com/0mWindyBug/KernelInjector) | 
         PoC kernel to usermode injection 
        | 22⭐ | 2024-03-26T01:56:57.000Z |
+| [awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) | 
+        Awesome EDR Bypass Resources For Ethical Hacking
+       | 758⭐ | 2024-03-27T02:59:15.000Z |
