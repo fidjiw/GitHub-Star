@@ -566,3 +566,6 @@
 | [awesome-edr-bypass](https://github.com/tkmru/awesome-edr-bypass) | 
         Awesome EDR Bypass Resources For Ethical Hacking
        | 758⭐ | 2024-03-27T02:59:15.000Z |
+| [WhoIsWho](https://github.com/MzHmO/WhoIsWho) | 
+        Amazing whoami alternatives
+       | 83⭐ | 2024-03-27T02:58:35.000Z |
