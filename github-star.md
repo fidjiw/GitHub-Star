@@ -569,3 +569,6 @@
 | [WhoIsWho](https://github.com/MzHmO/WhoIsWho) | 
         Amazing whoami alternatives
        | 83⭐ | 2024-03-27T02:58:35.000Z |
+| [bearer](https://github.com/Bearer/bearer) | 
+        Code security scanning tool (SAST) to discover, filter and prioritize security and privacy risks.
+       | 1.7k⭐ | 2024-03-27T02:58:06.000Z |
