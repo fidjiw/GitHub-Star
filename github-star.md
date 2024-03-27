@@ -593,3 +593,6 @@
 | [GPT_API_free](https://github.com/chatanywhere/GPT_API_free) | 
         Free ChatGPT API Key，免费ChatGPT API，支持GPT4 API（免费），ChatGPT国内可用免费转发API，直连无需代理。可以搭配ChatBox等软件/插件使用，极大降低接口使用成本。国内即可无限制畅快聊天。
        | 14.5k⭐ | 2024-03-27T15:01:25.000Z |
+| [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) | 
+        An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
+       | 1.1k⭐ | 2024-03-27T15:15:50.000Z |
