@@ -596,3 +596,6 @@
 | [chatgpt-tool-hub](https://github.com/goldfishh/chatgpt-tool-hub) | 
         An open-source chatgpt tool ecosystem where you can combine tools with chatgpt and use natural language to do anything.
        | 1.1k⭐ | 2024-03-27T15:15:50.000Z |
+| [chatgpt-on-wecom](https://github.com/mostlittlebee/chatgpt-on-wecom) | 
+        基于ChatGPT的企业微信聊天应用
+       | 124⭐ | 2024-03-28T01:23:21.000Z |
