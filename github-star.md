@@ -605,3 +605,6 @@
 | [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) | 
         🥊 Free & Unlimited Image Hosting
        | 456⭐ | 2024-03-28T02:28:12.000Z |
+| [Webshell-loader](https://github.com/INotGreen/Webshell-loader) | 
+        ASPX内存执行shellcode,绕过Windows Defender（AV/EDR）
+       | 60⭐ | 2024-03-28T02:49:26.000Z |
