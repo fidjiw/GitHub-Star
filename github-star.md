@@ -602,3 +602,6 @@
 | [bot-on-anything](https://github.com/zhayujie/bot-on-anything) | 
         Connect AI models (like ChatGPT-3.5/4.0, Baidu Yiyan, New Bing, Bard) to apps (like Wechat, public account, DingTalk, Telegram, QQ). 将 ChatGPT、必应、文心一言、谷歌Bard 等对话模型连接各类应用，如微信、公众号、QQ、Telegram、Gmail、Slack、Web、企业微信、飞书、钉钉等。
        | 3.6k⭐ | 2024-03-28T01:25:31.000Z |
+| [cf-image-hosting](https://github.com/ifyour/cf-image-hosting) | 
+        🥊 Free & Unlimited Image Hosting
+       | 456⭐ | 2024-03-28T02:28:12.000Z |
