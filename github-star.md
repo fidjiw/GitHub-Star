@@ -617,3 +617,6 @@
 | [ChromeKatz](https://github.com/Meckazin/ChromeKatz) | 
         Dump cookies directly from Chrome process memory
        | 193⭐ | 2024-03-28T02:50:48.000Z |
+| [dicttools](https://github.com/kkbo8005/dicttools) | 
+        密码字典生成工具
+       | 143⭐ | 2024-03-28T02:50:14.000Z |
