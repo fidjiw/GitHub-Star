@@ -614,3 +614,6 @@
 | [Qianji](https://github.com/Pizz33/Qianji) | 
         千机-红队免杀木马自动生成器 Bypass defender、火绒、360等国内主流杀软 随机加密混淆shellcode快速生成免杀马
        | 320⭐ | 2024-03-28T02:52:54.000Z |
+| [ChromeKatz](https://github.com/Meckazin/ChromeKatz) | 
+        Dump cookies directly from Chrome process memory
+       | 193⭐ | 2024-03-28T02:50:48.000Z |
