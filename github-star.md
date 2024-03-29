@@ -632,3 +632,6 @@
 | [LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) | 
         Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration! 
        | 646⭐ | 2024-03-29T00:45:20.000Z |
+| [sunotoapi](https://github.com/disingn/sunotoapi) | 
+        将 sunoAi web转成 openai 格式进行调用
+       | 102⭐ | 2024-03-29T02:18:33.000Z |
