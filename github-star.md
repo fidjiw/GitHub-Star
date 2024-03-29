@@ -629,3 +629,6 @@
 | [Dubbo-Scan](https://github.com/YYHYlh/Dubbo-Scan) | 
         一款让你不只在dubbo-sample、vulhub或者其他测试环境里检测和利用成功的Apache Dubbo 漏洞检测工具。
        | 144⭐ | 2024-03-29T00:46:15.000Z |
+| [LDAPmonitor](https://github.com/p0dalirius/LDAPmonitor) | 
+        Monitor creation, deletion and changes to LDAP objects live during your pentest or system administration! 
+       | 646⭐ | 2024-03-29T00:45:20.000Z |
