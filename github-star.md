@@ -635,3 +635,6 @@
 | [sunotoapi](https://github.com/disingn/sunotoapi) | 
         将 sunoAi web转成 openai 格式进行调用
        | 102⭐ | 2024-03-29T02:18:33.000Z |
+| [gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) | 
+        A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
+       | 410⭐ | 2024-03-29T06:32:51.000Z |
