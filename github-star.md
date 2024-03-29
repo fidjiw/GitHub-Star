@@ -626,3 +626,6 @@
 | [HandyControls](https://github.com/ghost1372/HandyControls) | 
         Contains some simple and commonly used WPF controls based on HandyControl
        | 996⭐ | 2024-03-29T00:47:21.000Z |
+| [Dubbo-Scan](https://github.com/YYHYlh/Dubbo-Scan) | 
+        一款让你不只在dubbo-sample、vulhub或者其他测试环境里检测和利用成功的Apache Dubbo 漏洞检测工具。
+       | 144⭐ | 2024-03-29T00:46:15.000Z |
