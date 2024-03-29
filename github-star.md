@@ -620,3 +620,6 @@
 | [dicttools](https://github.com/kkbo8005/dicttools) | 
         密码字典生成工具
        | 143⭐ | 2024-03-28T02:50:14.000Z |
+| [x64win-DynamicNoNull-WinExec-PopCalc-Shellcode](https://github.com/boku7/x64win-DynamicNoNull-WinExec-PopCalc-Shellcode) | 
+        64bit WIndows 10 shellcode dat pops dat calc - Dynamic & Null Free
+       | 52⭐ | 2024-03-29T00:49:37.000Z |
