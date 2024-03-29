@@ -623,3 +623,6 @@
 | [x64win-DynamicNoNull-WinExec-PopCalc-Shellcode](https://github.com/boku7/x64win-DynamicNoNull-WinExec-PopCalc-Shellcode) | 
         64bit WIndows 10 shellcode dat pops dat calc - Dynamic & Null Free
        | 52⭐ | 2024-03-29T00:49:37.000Z |
+| [HandyControls](https://github.com/ghost1372/HandyControls) | 
+        Contains some simple and commonly used WPF controls based on HandyControl
+       | 996⭐ | 2024-03-29T00:47:21.000Z |
