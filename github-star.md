@@ -638,3 +638,6 @@
 | [gemini-openai-proxy](https://github.com/zhu327/gemini-openai-proxy) | 
         A proxy for converting the OpenAI API protocol to the Google Gemini Pro protocol.
        | 410⭐ | 2024-03-29T06:32:51.000Z |
+| [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) | 
+        智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
+       | 1.3k⭐ | 2024-03-30T02:48:23.000Z |
