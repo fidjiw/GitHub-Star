@@ -641,3 +641,6 @@
 | [wechat-assistant-pro](https://github.com/leochen-g/wechat-assistant-pro) | 
         智能微秘书，一个全能的微信机器人管理平台，最简单的方式接入 ChatGPT，FastGPT，Dify知识库，支持绘图，联网查询，语音识别，各种定时任务，支持企微、公众号、5G 消息、WhatsApp
        | 1.3k⭐ | 2024-03-30T02:48:23.000Z |
+| [nunu](https://github.com/go-nunu/nunu) | 
+        A CLI tool for building Go applications.
+       | 1.1k⭐ | 2024-03-31T08:50:04.000Z |
