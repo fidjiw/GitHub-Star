@@ -656,3 +656,6 @@
 | [RunasCs](https://github.com/antonioCoco/RunasCs) | 
         RunasCs - Csharp and open version of windows builtin runas.exe
        | 844⭐ | 2024-04-01T02:58:10.000Z |
+| [MD5HasherGB](https://github.com/notmirmo/MD5HasherGB) | 
+        A MD5 hasher that run on gameboy
+       | 5⭐ | 2024-04-01T02:57:41.000Z |
