@@ -659,3 +659,6 @@
 | [MD5HasherGB](https://github.com/notmirmo/MD5HasherGB) | 
         A MD5 hasher that run on gameboy
        | 5⭐ | 2024-04-01T02:57:41.000Z |
+| [duckdb](https://github.com/duckdb/duckdb) | 
+        DuckDB is an in-process SQL OLAP Database Management System
+       | 16k⭐ | 2024-04-01T02:57:04.000Z |
