@@ -647,3 +647,6 @@
 | [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | 
         Automate Creation of YouTube Shorts using MoviePy.
        | 9.2k⭐ | 2024-04-01T01:26:48.000Z |
+| [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 
+        利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
+       | 6.5k⭐ | 2024-04-01T01:26:40.000Z |
