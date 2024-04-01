@@ -653,3 +653,6 @@
 | [DllMainHijacking](https://github.com/Neo-Maoku/DllMainHijacking) | 
         Resolve the issue of DLLmain function in white and black DLLs hanging when calling shellcode
        | 14⭐ | 2024-04-01T02:58:44.000Z |
+| [RunasCs](https://github.com/antonioCoco/RunasCs) | 
+        RunasCs - Csharp and open version of windows builtin runas.exe
+       | 844⭐ | 2024-04-01T02:58:10.000Z |
