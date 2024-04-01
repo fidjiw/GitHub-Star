@@ -644,3 +644,6 @@
 | [nunu](https://github.com/go-nunu/nunu) | 
         A CLI tool for building Go applications.
        | 1.1k⭐ | 2024-03-31T08:50:04.000Z |
+| [MoneyPrinter](https://github.com/FujiwaraChoki/MoneyPrinter) | 
+        Automate Creation of YouTube Shorts using MoviePy.
+       | 9.2k⭐ | 2024-04-01T01:26:48.000Z |
