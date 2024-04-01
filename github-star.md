@@ -650,3 +650,6 @@
 | [MoneyPrinterTurbo](https://github.com/harry0703/MoneyPrinterTurbo) | 
         利用AI大模型，一键生成高清短视频 Generate short videos with one click using AI LLM.
        | 6.5k⭐ | 2024-04-01T01:26:40.000Z |
+| [DllMainHijacking](https://github.com/Neo-Maoku/DllMainHijacking) | 
+        Resolve the issue of DLLmain function in white and black DLLs hanging when calling shellcode
+       | 14⭐ | 2024-04-01T02:58:44.000Z |
