@@ -668,3 +668,6 @@
 | [HummerRisk](https://github.com/HummerRisk/HummerRisk) | 
         HummerRisk 是云原生安全平台，包括混合云安全治理和云原生安全检测。
        | 1.7k⭐ | 2024-04-02T02:39:50.000Z |
+| [Shellcode_SeparationLoad](https://github.com/xf555er/Shellcode_SeparationLoad) | 
+        通过文件加载和远程URL加载方式实现Shellcode分离加载
+       | 11⭐ | 2024-04-02T02:39:13.000Z |
