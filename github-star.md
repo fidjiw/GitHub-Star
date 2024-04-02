@@ -671,3 +671,6 @@
 | [Shellcode_SeparationLoad](https://github.com/xf555er/Shellcode_SeparationLoad) | 
         通过文件加载和远程URL加载方式实现Shellcode分离加载
        | 11⭐ | 2024-04-02T02:39:13.000Z |
+| [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) | 
+        library for importing functions from dlls in a hidden, reverse engineer unfriendly way
+       | 1.5k⭐ | 2024-04-02T02:41:06.000Z |
