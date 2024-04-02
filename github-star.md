@@ -674,3 +674,6 @@
 | [lazy_importer](https://github.com/JustasMasiulis/lazy_importer) | 
         library for importing functions from dlls in a hidden, reverse engineer unfriendly way
        | 1.5k⭐ | 2024-04-02T02:41:06.000Z |
+| [xzbot](https://github.com/amlweems/xzbot) | 
+        notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
+       | 850⭐ | 2024-04-02T02:40:26.000Z |
