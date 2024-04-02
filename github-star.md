@@ -677,3 +677,6 @@
 | [xzbot](https://github.com/amlweems/xzbot) | 
         notes, honeypot, and exploit demo for the xz backdoor (CVE-2024-3094)
        | 850⭐ | 2024-04-02T02:40:26.000Z |
+| [douyin](https://github.com/zyronon/douyin) | 
+        TikTok 抖音 Vue.js
+       | 1.1k⭐ | 2024-04-02T12:13:09.000Z |
