@@ -695,3 +695,6 @@
 | [notion-backup](https://github.com/darobin/notion-backup) | 
         Simple command to backup a Notion workspace
        | 379⭐ | 2024-04-03T05:59:32.000Z |
+| [FreeGPT35](https://github.com/missuo/FreeGPT35) | 
+        Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
+       | 317⭐ | 2024-04-03T05:56:10.000Z |
