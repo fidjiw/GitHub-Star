@@ -686,3 +686,6 @@
 | [Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) | 
         not a reverse-engineered version of the Cobalt Strike Beacon
        | 118⭐ | 2024-04-03T03:56:35.000Z |
+| [ADeleginator](https://github.com/techspence/ADeleginator) | 
+        A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory
+       | 52⭐ | 2024-04-03T03:56:05.000Z |
