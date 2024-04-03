@@ -692,3 +692,6 @@
 | [SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) | 
         寻找可利用的白文件
        | 17⭐ | 2024-04-03T03:55:31.000Z |
+| [notion-backup](https://github.com/darobin/notion-backup) | 
+        Simple command to backup a Notion workspace
+       | 379⭐ | 2024-04-03T05:59:32.000Z |
