@@ -683,3 +683,6 @@
 | [Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill) | 
         用于记录企业安全规划，建设，运营，攻防的相关资源
        | 539⭐ | 2024-04-03T03:54:59.000Z |
+| [Beacon_Source](https://github.com/kyxiaxiang/Beacon_Source) | 
+        not a reverse-engineered version of the Cobalt Strike Beacon
+       | 118⭐ | 2024-04-03T03:56:35.000Z |
