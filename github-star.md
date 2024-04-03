@@ -680,3 +680,6 @@
 | [douyin](https://github.com/zyronon/douyin) | 
         TikTok 抖音 Vue.js
        | 1.1k⭐ | 2024-04-02T12:13:09.000Z |
+| [Enterprise-Security-Skill](https://github.com/AnyeDuke/Enterprise-Security-Skill) | 
+        用于记录企业安全规划，建设，运营，攻防的相关资源
+       | 539⭐ | 2024-04-03T03:54:59.000Z |
