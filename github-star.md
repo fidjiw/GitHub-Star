@@ -689,3 +689,6 @@
 | [ADeleginator](https://github.com/techspence/ADeleginator) | 
         A companion tool that uses ADeleg to find insecure trustee and resource delegations in Active Directory
        | 52⭐ | 2024-04-03T03:56:05.000Z |
+| [SearchAvailableExe](https://github.com/Neo-Maoku/SearchAvailableExe) | 
+        寻找可利用的白文件
+       | 17⭐ | 2024-04-03T03:55:31.000Z |
