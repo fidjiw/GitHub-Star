@@ -699,3 +699,6 @@
         Utilize the unlimited free GPT-3.5-Turbo API service provided by the login-free ChatGPT Web.
        | 317⭐ | 2024-04-03T05:56:10.000Z |
 | [aurora](https://github.com/aurora-develop/aurora) | 该项目没有About | 45⭐ | 2024-04-03T06:08:16.000Z |
+| [threadtear](https://github.com/GraxCode/threadtear) | 
+        Multifunctional java deobfuscation tool suite
+       | 853⭐ | 2024-04-04T03:19:37.000Z |
