@@ -705,3 +705,6 @@
 | [Sec-Interview-4-2023](https://github.com/vvmdx/Sec-Interview-4-2023) | 
         一个2023届毕业生在毕业前持续更新、收集的安全岗面试题及面试经验分享~
        | 2.1k⭐ | 2024-04-04T03:58:08.000Z |
+| [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) | 
+        中国大模型
+       | 4k⭐ | 2024-04-05T11:24:20.000Z |
