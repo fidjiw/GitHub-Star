@@ -708,3 +708,4 @@
 | [awesome-LLMs-In-China](https://github.com/wgwang/awesome-LLMs-In-China) | 
         中国大模型
        | 4k⭐ | 2024-04-05T11:24:20.000Z |
+| [deeplx-pro](https://github.com/xiaozhou26/deeplx-pro) | 该项目没有About | 32⭐ | 2024-04-06T01:55:46.000Z |
